@@ -1,5 +1,5 @@
 site_name: NYC Trance
-site_description: Pages, class notes, and community policies for the NYC Trance social hypnosis group
+site_description: A little social club for those around the big city with open minds
 site_author: nyctrance
 site_url: https://nyctrance.github.io/
 repo_url: https://github.com/nyctrance/nyctrance.github.io
@@ -8,8 +8,10 @@ repo_name: nyctrance/nyctrance.github.io
 theme:
   name: material
   language: en
+  logo: assets/spiral.gif
+  favicon: assets/spiral.gif
   palette:
-    # Palette toggle for automatic / day mode
+    # Day / warm light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: deep purple
@@ -17,7 +19,7 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    # Palette toggle for dark mode
+    # Nocturnal / slate mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep purple
@@ -35,6 +37,9 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -55,8 +60,13 @@ markdown_extensions:
 
 plugins:
   - search
+  - blog:
+      blog_dir: events
+      blog_toc: true
+      post_url_format: "{date}-{slug}"
+      archive: false
 
 nav:
   - Home: index.md
-  - Policies & Safety: policies/safety-and-consent.md
-  - Class Notes: classes/overview.md
+  - Consent: consent.md
+  - Events: events/index.md

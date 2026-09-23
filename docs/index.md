@@ -1,36 +1,39 @@
-# NYC Trance
-
-Welcome to the **NYC Trance** community site. We are a social hypnosis club based in New York City, hosting regular meetups, practice circles, and educational classes for hypnotic enthusiasts of all experience levels.
-
----
-
-## Quick Navigation
-
-* 📜 **[Policies & Safety Guidelines](policies/safety-and-consent.md)** — Our community ground rules, consent protocols, and safety practices.
-  * Direct to: **[The Club Consent Model](policies/safety-and-consent.md#the-club-consent-model)**
-  * Direct to: **[Awakening and Grounding Protocols](policies/safety-and-consent.md#awakening-and-grounding-procedures)**
-* 📚 **[Class Notes & Workshops](classes/overview.md)** — Curriculum, practice exercises, and syllabus for upcoming sessions.
+<div class="hero-container">
+  <img src="assets/spiral.gif" alt="NYC Trance Golden Spiral" class="hero-spiral" />
+  <div>
+    <h1 style="margin-bottom: 0.25rem;">NYC Trance</h1>
+    <p style="font-size: 1.15rem; margin-top: 0; opacity: 0.9;"><em>A little social club for those around the big city with open minds</em></p>
+  </div>
+</div>
 
 ---
 
-## Club Values & Environment
+<div class="custom-card card-amber" markdown>
 
-!!! note "Consent-First Hypnosis"
-    Every hypnotic interaction at NYC Trance is strictly voluntary, collaborative, and based on ongoing, enthusiastic consent. No one is ever obligated to participate in trance states.
+## Upcoming Events
 
-Our meetups are designed to be safe, supportive spaces where both subjects and operators can learn, explore trance phenomena, and build confidence together.
+* **Sept 25th munch 5pm-6pm**
+* **Sept 25th speed trance 6pm-10pm**
 
-### What We Do
-* **Guided Group Trances**: Relaxing, themed trance inductions led by experienced community facilitators.
-* **Skillshares & Practice Labs**: Hands-on practice with inductions, deepeners, suggestion design, and awakening techniques.
-* **Community Discussion**: Decompressing experiences, discussing trance mechanics, and sharing safety insights.
+**Hope to see you there!**
 
----
+[View September 25th Event Details & FAQ](events/posts/2026-09-25-speed-trance.md){ .md-button .md-button--primary }
 
-## Getting Started
+</div>
 
-If you are new to the club:
+<div class="custom-card card-purple" markdown>
 
-1. Review our **[Safety and Consent Guidelines](policies/safety-and-consent.md)** before attending your first meetup.
-2. Read the **[Awakening and Grounding Procedures](policies/safety-and-consent.md#awakening-and-grounding-procedures)** so you are familiar with how we end trance sessions.
-3. Check the **[Class Notes Overview](classes/overview.md)** for upcoming class schedules and workshop topics.
+### Monthly speed trance social
+
+Meet people with a shared interest in mind-play!
+
+Ask questions, make friends!
+
+Follow [our fetlife group](https://fetlife.com/groups/359152) to stay on top of scheduling & announcements.
+
+**Attendance policy**  
+[Read it here](consent.md).
+
+If you have questions, reach out to an organizer!
+
+</div>

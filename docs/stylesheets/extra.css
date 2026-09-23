@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Unbounded:wght@600;700;800;900&display=swap');
+
+/* Typography Overrides */
+h1, h2, h3, .md-header__title, .hero-title {
+  font-family: 'Unbounded', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+code, kbd, pre, .event-time, .badge {
+  font-family: 'Space Mono', SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+/* Navbar Logo */
+.md-header__button.md-logo img, 
+.md-header__button.md-logo svg {
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.4);
+}
+
+/* Card System */
+.custom-card {
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-width: 2px;
+  border-style: solid;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.custom-card:hover {
+  transform: translateY(-2px);
+}
+
+/* Theme-Specific Card Tones */
+[data-md-color-scheme="slate"] .custom-card.card-purple {
+  border-color: #a855f7;
+  background-color: rgba(168, 85, 247, 0.1);
+  box-shadow: 0 4px 20px rgba(168, 85, 247, 0.15);
+}
+
+[data-md-color-scheme="default"] .custom-card.card-purple {
+  border-color: #9333ea;
+  background-color: #faf5ff;
+  box-shadow: 0 4px 12px rgba(147, 51, 234, 0.1);
+}
+
+[data-md-color-scheme="slate"] .custom-card.card-amber {
+  border-color: #f59e0b;
+  background-color: rgba(245, 158, 11, 0.1);
+  box-shadow: 0 4px 20px rgba(245, 158, 11, 0.15);
+}
+
+[data-md-color-scheme="default"] .custom-card.card-amber {
+  border-color: #d97706;
+  background-color: #fffbeb;
+  box-shadow: 0 4px 12px rgba(217, 119, 6, 0.1);
+}
+
+[data-md-color-scheme="slate"] .custom-card.card-iris {
+  border-color: #818cf8;
+  background-color: rgba(99, 102, 241, 0.1);
+  box-shadow: 0 4px 20px rgba(99, 102, 241, 0.15);
+}
+
+[data-md-color-scheme="default"] .custom-card.card-iris {
+  border-color: #4f46e5;
+  background-color: #eef2ff;
+  box-shadow: 0 4px 12px rgba(79, 70, 229, 0.1);
+}
+
+[data-md-color-scheme="slate"] .custom-card.card-rose {
+  border-color: #f472b6;
+  background-color: rgba(236, 72, 153, 0.1);
+  box-shadow: 0 4px 20px rgba(236, 72, 153, 0.15);
+}
+
+[data-md-color-scheme="default"] .custom-card.card-rose {
+  border-color: #db2777;
+  background-color: #fdf2f8;
+  box-shadow: 0 4px 12px rgba(219, 39, 119, 0.1);
+}
+
+[data-md-color-scheme="slate"] .custom-card.card-mint {
+  border-color: #2dd4bf;
+  background-color: rgba(20, 184, 166, 0.1);
+  box-shadow: 0 4px 20px rgba(20, 184, 166, 0.15);
+}
+
+[data-md-color-scheme="default"] .custom-card.card-mint {
+  border-color: #0d9488;
+  background-color: #f0fdfa;
+  box-shadow: 0 4px 12px rgba(13, 148, 136, 0.1);
+}
+
+/* The Dedicated Red Section Card (Or Else What?) */
+.custom-card.red-section {
+  border-width: 2.5px;
+  border-style: solid;
+  border-color: #e11d48 !important;
+}
+
+[data-md-color-scheme="slate"] .custom-card.red-section {
+  background-color: rgba(225, 29, 72, 0.15);
+  box-shadow: 0 0 25px rgba(225, 29, 72, 0.25);
+  color: #ffe4e6;
+}
+
+[data-md-color-scheme="default"] .custom-card.red-section {
+  background-color: #fff1f2;
+  box-shadow: 0 4px 16px rgba(225, 29, 72, 0.15);
+  color: #881337;
+}
+
+.custom-card.red-section h2,
+.custom-card.red-section h3 {
+  color: #e11d48 !important;
+  margin-top: 0;
+}
+
+/* Hero Branding Section */
+.hero-container {
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.hero-spiral {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 3px solid #a855f7;
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.35);
+  flex-shrink: 0;
+}
+
+@media (max-width: 600px) {
+  .hero-container {
+    flex-direction: column;
+    text-align: center;
+  }
+}
