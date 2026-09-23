@@ -1,0 +1,62 @@
+site_name: NYC Trance
+site_description: Pages, class notes, and community policies for the NYC Trance social hypnosis group
+site_author: nyctrance
+site_url: https://nyctrance.github.io/
+repo_url: https://github.com/nyctrance/nyctrance.github.io
+repo_name: nyctrance/nyctrance.github.io
+
+theme:
+  name: material
+  language: en
+  palette:
+    # Palette toggle for automatic / day mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.magiclink
+  - attr_list
+  - def_list
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Policies & Safety: policies/safety-and-consent.md
+  - Class Notes: classes/overview.md
