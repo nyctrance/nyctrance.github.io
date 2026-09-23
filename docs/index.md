@@ -1,9 +1,8 @@
 <div class="hero-container">
   <img src="assets/spiral.gif" alt="NYC Trance Golden Spiral" class="hero-spiral" />
-  <div>
-    <h1 style="margin-bottom: 0.25rem;">NYC Trance</h1>
-    <p style="font-size: 1.15rem; margin-top: 0; opacity: 0.9;"><em>A little social club for those around the big city with open minds</em></p>
-  </div>
+  <p style="font-size: 1.25rem; margin: 0; font-weight: 600; line-height: 1.4;">
+    <em>A little social club for those around the big city with open minds</em>
+  </p>
 </div>
 
 ---
