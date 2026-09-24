@@ -103,15 +103,17 @@ code, kbd, pre, .event-time, .badge {
   border-left-color: var(--ccard-color) !important;
   border-bottom: 1px solid color-mix(in srgb, var(--ccard-color) 25%, transparent) !important;
   background-color: color-mix(in srgb, var(--ccard-color) 22%, transparent) !important;
+  padding: 0.55rem 0.9rem !important;
   font-family: 'Unbounded', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-weight: 600;
   font-size: 1.15rem;
   letter-spacing: -0.01em;
 }
 
+/* Omit default Material "pencil in a circle" icon for ccard */
 .md-typeset .admonition.ccard > .admonition-title::before,
 .md-typeset details.admonition.ccard > summary::before {
-  background-color: var(--ccard-color) !important;
+  display: none !important;
 }
 
 /* ============================================================
