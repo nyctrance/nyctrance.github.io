@@ -1,4 +1,8 @@
-# Consent
+---
+title: Consent
+---
+
+<h1 class="visually-hidden">Consent</h1>
 
 !!! ccard "What is Consent?" {:what-is-consent}
     Consent requires:

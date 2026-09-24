@@ -367,9 +367,13 @@ code, kbd, pre, .event-time, .badge {
   font-weight: 300;
 }
 
-/* Hide breadcrumb second topic on home page so it only displays "NYC Trance" */
-.md-header:has(.md-tabs__item--active a[href="."]) .md-header__topic:nth-child(2),
-.md-header:has(.md-tabs__item--active a[href="./"]) .md-header__topic:nth-child(2),
+/* Hide breadcrumb second topic only if empty */
 .md-header__title:has(.md-header__topic:nth-child(2) span:empty) .md-header__topic:nth-child(2) {
+  display: none !important;
+}
+
+/* Suppress empty header container when title is visually hidden in body */
+.md-content__inner > header:has(> .visually-hidden:only-child),
+.md-content__inner > header:empty {
   display: none !important;
 }
