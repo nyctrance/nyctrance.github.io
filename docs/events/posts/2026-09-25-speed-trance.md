@@ -9,6 +9,15 @@ categories:
 
 # September 25th Speed Trance & Munch
 
+<!-- --8<-- [start:summary] -->
+* **Sept 25th munch 5pm-6pm**
+* **Sept 25th speed trance 6pm-10pm**
+
+**Hope to see you there!**
+<!-- --8<-- [end:summary] -->
+
+<!-- more -->
+
 !!! ccard "When?" {:when}
     September 25th.
 

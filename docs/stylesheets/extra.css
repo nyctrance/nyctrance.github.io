@@ -242,3 +242,52 @@ code, kbd, pre, .event-time, .badge {
   white-space: nowrap !important;
   border: 0 !important;
 }
+
+/* ============================================================
+   Navigation & Layout: No Left Gutter, Breadcrumb in Header
+   ============================================================ */
+
+/* Desktop: Remove the redundant left navigation gutter completely */
+@media screen and (min-width: 60em) {
+  .md-sidebar--primary {
+    display: none !important;
+  }
+}
+
+/* Header Breadcrumb: Site Name › Section */
+.md-header__title .md-header__ellipsis {
+  display: flex !important;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.md-header__title .md-header__topic {
+  display: inline-flex !important;
+  position: static !important;
+  opacity: 1 !important;
+  transform: none !important;
+  transition: none !important;
+}
+
+/* Second topic (Section / Page title) */
+.md-header__title .md-header__topic:nth-child(2) {
+  display: inline-flex !important;
+  align-items: center;
+  color: rgba(255, 255, 255, 0.75);
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+.md-header__title .md-header__topic:nth-child(2)::before {
+  content: "›";
+  margin-right: 0.35rem;
+  color: rgba(255, 255, 255, 0.45);
+  font-weight: 300;
+}
+
+/* Hide breadcrumb second topic on home page so it only displays "NYC Trance" */
+.md-header:has(.md-tabs__item--active a[href="."]) .md-header__topic:nth-child(2),
+.md-header:has(.md-tabs__item--active a[href="./"]) .md-header__topic:nth-child(2),
+.md-header__title:has(.md-header__topic:nth-child(2) span:empty) .md-header__topic:nth-child(2) {
+  display: none !important;
+}
