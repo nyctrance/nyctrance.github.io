@@ -69,28 +69,40 @@ code, kbd, pre, .event-time, .badge {
 /* Card Container */
 .md-typeset .admonition.ccard,
 .md-typeset details.admonition.ccard {
-  border-left-width: 4px !important;
-  border-left-color: var(--ccard-color) !important;
-  border-radius: 10px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  border: 1.5px solid var(--ccard-color) !important;
+  border-left-width: 5px !important;
+  border-radius: 12px;
   margin: 1.5rem 0;
+  outline: none !important;
+  overflow: hidden;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
+/* Dark / Slate theme: Colored jewel-tone backgrounds */
 [data-md-color-scheme="slate"] .md-typeset .admonition.ccard,
 [data-md-color-scheme="slate"] .md-typeset details.admonition.ccard {
-  background-color: rgba(255, 255, 255, 0.03);
+  background-color: color-mix(in srgb, var(--ccard-color) 12%, #14151f) !important;
+  box-shadow: 0 4px 20px color-mix(in srgb, var(--ccard-color) 18%, transparent);
+}
+
+/* Light / Default theme: Soft pastel tinted backgrounds */
+[data-md-color-scheme="default"] .md-typeset .admonition.ccard,
+[data-md-color-scheme="default"] .md-typeset details.admonition.ccard {
+  background-color: color-mix(in srgb, var(--ccard-color) 8%, #ffffff) !important;
+  box-shadow: 0 4px 16px color-mix(in srgb, var(--ccard-color) 12%, transparent);
 }
 
 .md-typeset .admonition.ccard:hover {
   transform: translateY(-2px);
+  box-shadow: 0 6px 24px color-mix(in srgb, var(--ccard-color) 28%, transparent);
 }
 
 /* Card Header */
 .md-typeset .admonition.ccard > .admonition-title,
 .md-typeset details.admonition.ccard > summary {
   border-left-color: var(--ccard-color) !important;
-  background-color: color-mix(in srgb, var(--ccard-color) 12%, transparent) !important;
+  border-bottom: 1px solid color-mix(in srgb, var(--ccard-color) 25%, transparent) !important;
+  background-color: color-mix(in srgb, var(--ccard-color) 22%, transparent) !important;
   font-family: 'Unbounded', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-weight: 600;
   font-size: 1.15rem;
@@ -107,23 +119,27 @@ code, kbd, pre, .event-time, .badge {
    ============================================================ */
 .md-typeset .admonition.danger.h2,
 .md-typeset .admonition.danger {
-  border-left-width: 4px !important;
-  border-left-color: #e11d48 !important;
-  border-radius: 10px;
+  border: 1.5px solid #e11d48 !important;
+  border-left-width: 5px !important;
+  border-radius: 12px;
+  outline: none !important;
+  overflow: hidden;
 }
 
 [data-md-color-scheme="slate"] .md-typeset .admonition.danger {
-  background-color: rgba(225, 29, 72, 0.12) !important;
-  box-shadow: 0 0 25px rgba(225, 29, 72, 0.2);
+  background-color: color-mix(in srgb, #e11d48 14%, #14151f) !important;
+  box-shadow: 0 0 25px rgba(225, 29, 72, 0.25);
 }
 
 [data-md-color-scheme="default"] .md-typeset .admonition.danger {
   background-color: #fff1f2 !important;
+  box-shadow: 0 4px 16px rgba(225, 29, 72, 0.15);
 }
 
 .md-typeset .admonition.danger > .admonition-title {
   border-left-color: #e11d48 !important;
-  background-color: rgba(225, 29, 72, 0.2) !important;
+  border-bottom: 1px solid rgba(225, 29, 72, 0.3) !important;
+  background-color: rgba(225, 29, 72, 0.25) !important;
   color: #e11d48 !important;
   font-family: 'Unbounded', sans-serif;
   font-weight: 700;
@@ -131,6 +147,59 @@ code, kbd, pre, .event-time, .badge {
 
 .md-typeset .admonition.danger > .admonition-title::before {
   background-color: #e11d48 !important;
+}
+
+/* ============================================================
+   Right-Aligned & Vertically Centered Action Buttons in Cards
+   ============================================================ */
+
+/* Desktop & tablet: when a card ends with a button paragraph, float it right and center */
+@media (min-width: 768px) {
+  .md-typeset .admonition:has(> p:last-child > .md-button) {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    column-gap: 2rem;
+  }
+
+  .md-typeset .admonition:has(> p:last-child > .md-button) > .admonition-title {
+    grid-column: 1 / -1;
+  }
+
+  .md-typeset .admonition:has(> p:last-child > .md-button) > p:last-child:has(> .md-button) {
+    grid-column: 2;
+    grid-row: 2 / span 10;
+    align-self: center;
+    justify-self: end;
+    margin: 0 0.5rem 0 0;
+  }
+}
+
+/* Also support explicit side-by-side flex split container if ever used */
+.card-split {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.card-split > :first-child {
+  flex: 1 1 auto;
+}
+
+.card-split > :last-child {
+  flex: 0 0 auto;
+}
+
+@media (max-width: 767px) {
+  .card-split {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .card-split > :last-child {
+    margin-top: 0.5rem;
+    text-align: center;
+  }
 }
 
 /* Accessibility / Screen-reader only */
