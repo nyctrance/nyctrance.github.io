@@ -49,7 +49,8 @@ markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      base_path: ["docs", "."]
   - pymdownx.magiclink
   - attr_list
   - def_list
@@ -71,3 +72,6 @@ nav:
   - Home: index.md
   - Consent: consent.md
   - Events: events/index.md
+
+not_in_nav: |
+  main.md
