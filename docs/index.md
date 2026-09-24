@@ -1,3 +1,5 @@
+<h1 class="visually-hidden">NYC Trance</h1>
+
 <div class="hero-container">
   <img src="assets/spiral.gif" alt="NYC Trance Golden Spiral" class="hero-spiral" />
   <p style="font-size: 1.25rem; margin: 0; font-weight: 600; line-height: 1.4;">
@@ -7,32 +9,22 @@
 
 ---
 
-<div class="custom-card card-amber" markdown>
+!!! ccard "Upcoming Events"
+    * **Sept 25th munch 5pm-6pm**
+    * **Sept 25th speed trance 6pm-10pm**
 
-## Upcoming Events
+    **Hope to see you there!**
 
-* **Sept 25th munch 5pm-6pm**
-* **Sept 25th speed trance 6pm-10pm**
+    [View September 25th Event Details & FAQ](events/posts/2026-09-25-speed-trance.md){ .md-button .md-button--primary }
 
-**Hope to see you there!**
+!!! ccard "Monthly speed trance social"
+    Meet people with a shared interest in mind-play!
 
-[View September 25th Event Details & FAQ](events/posts/2026-09-25-speed-trance.md){ .md-button .md-button--primary }
+    Ask questions, make friends!
 
-</div>
+    Follow [our fetlife group](https://fetlife.com/groups/359152) to stay on top of scheduling & announcements.
 
-<div class="custom-card card-purple" markdown>
+    **Attendance policy**  
+    [Read it here](consent.md).
 
-### Monthly speed trance social
-
-Meet people with a shared interest in mind-play!
-
-Ask questions, make friends!
-
-Follow [our fetlife group](https://fetlife.com/groups/359152) to stay on top of scheduling & announcements.
-
-**Attendance policy**  
-[Read it here](consent.md).
-
-If you have questions, reach out to an organizer!
-
-</div>
+    If you have questions, reach out to an organizer!

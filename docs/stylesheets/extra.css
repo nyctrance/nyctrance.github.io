@@ -17,106 +17,6 @@ code, kbd, pre, .event-time, .badge {
   box-shadow: 0 0 10px rgba(168, 85, 247, 0.4);
 }
 
-/* Card System */
-.custom-card {
-  border-radius: 12px;
-  padding: 1.25rem 1.5rem;
-  margin: 1.5rem 0;
-  border-width: 2px;
-  border-style: solid;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.custom-card:hover {
-  transform: translateY(-2px);
-}
-
-/* Theme-Specific Card Tones */
-[data-md-color-scheme="slate"] .custom-card.card-purple {
-  border-color: #a855f7;
-  background-color: rgba(168, 85, 247, 0.1);
-  box-shadow: 0 4px 20px rgba(168, 85, 247, 0.15);
-}
-
-[data-md-color-scheme="default"] .custom-card.card-purple {
-  border-color: #9333ea;
-  background-color: #faf5ff;
-  box-shadow: 0 4px 12px rgba(147, 51, 234, 0.1);
-}
-
-[data-md-color-scheme="slate"] .custom-card.card-amber {
-  border-color: #f59e0b;
-  background-color: rgba(245, 158, 11, 0.1);
-  box-shadow: 0 4px 20px rgba(245, 158, 11, 0.15);
-}
-
-[data-md-color-scheme="default"] .custom-card.card-amber {
-  border-color: #d97706;
-  background-color: #fffbeb;
-  box-shadow: 0 4px 12px rgba(217, 119, 6, 0.1);
-}
-
-[data-md-color-scheme="slate"] .custom-card.card-iris {
-  border-color: #818cf8;
-  background-color: rgba(99, 102, 241, 0.1);
-  box-shadow: 0 4px 20px rgba(99, 102, 241, 0.15);
-}
-
-[data-md-color-scheme="default"] .custom-card.card-iris {
-  border-color: #4f46e5;
-  background-color: #eef2ff;
-  box-shadow: 0 4px 12px rgba(79, 70, 229, 0.1);
-}
-
-[data-md-color-scheme="slate"] .custom-card.card-rose {
-  border-color: #f472b6;
-  background-color: rgba(236, 72, 153, 0.1);
-  box-shadow: 0 4px 20px rgba(236, 72, 153, 0.15);
-}
-
-[data-md-color-scheme="default"] .custom-card.card-rose {
-  border-color: #db2777;
-  background-color: #fdf2f8;
-  box-shadow: 0 4px 12px rgba(219, 39, 119, 0.1);
-}
-
-[data-md-color-scheme="slate"] .custom-card.card-mint {
-  border-color: #2dd4bf;
-  background-color: rgba(20, 184, 166, 0.1);
-  box-shadow: 0 4px 20px rgba(20, 184, 166, 0.15);
-}
-
-[data-md-color-scheme="default"] .custom-card.card-mint {
-  border-color: #0d9488;
-  background-color: #f0fdfa;
-  box-shadow: 0 4px 12px rgba(13, 148, 136, 0.1);
-}
-
-/* The Dedicated Red Section Card (Or Else What?) */
-.custom-card.red-section {
-  border-width: 2.5px;
-  border-style: solid;
-  border-color: #e11d48 !important;
-}
-
-[data-md-color-scheme="slate"] .custom-card.red-section {
-  background-color: rgba(225, 29, 72, 0.15);
-  box-shadow: 0 0 25px rgba(225, 29, 72, 0.25);
-  color: #ffe4e6;
-}
-
-[data-md-color-scheme="default"] .custom-card.red-section {
-  background-color: #fff1f2;
-  box-shadow: 0 4px 16px rgba(225, 29, 72, 0.15);
-  color: #881337;
-}
-
-.custom-card.red-section h2,
-.custom-card.red-section h3 {
-  color: #e11d48 !important;
-  margin-top: 0;
-}
-
 /* Hero Branding Section */
 .hero-container {
   display: flex;
@@ -139,4 +39,109 @@ code, kbd, pre, .event-time, .badge {
     flex-direction: column;
     text-align: center;
   }
+}
+
+/* ============================================================
+   Round-Robin Admonition Cards (!!! ccard)
+   ============================================================ */
+
+/* 5-Color Palette cycle for .admonition.ccard */
+.md-typeset :is(.admonition.ccard, details.admonition.ccard):nth-child(5n + 1 of .admonition.ccard) {
+  --ccard-color: #a855f7; /* Hypnotic Purple */
+}
+
+.md-typeset :is(.admonition.ccard, details.admonition.ccard):nth-child(5n + 2 of .admonition.ccard) {
+  --ccard-color: #f59e0b; /* Honey Amber */
+}
+
+.md-typeset :is(.admonition.ccard, details.admonition.ccard):nth-child(5n + 3 of .admonition.ccard) {
+  --ccard-color: #818cf8; /* Electric Iris */
+}
+
+.md-typeset :is(.admonition.ccard, details.admonition.ccard):nth-child(5n + 4 of .admonition.ccard) {
+  --ccard-color: #2dd4bf; /* Soft Mint */
+}
+
+.md-typeset :is(.admonition.ccard, details.admonition.ccard):nth-child(5n + 5 of .admonition.ccard) {
+  --ccard-color: #f472b6; /* Wild Rose */
+}
+
+/* Card Container */
+.md-typeset .admonition.ccard,
+.md-typeset details.admonition.ccard {
+  border-left-width: 4px !important;
+  border-left-color: var(--ccard-color) !important;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  margin: 1.5rem 0;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.ccard,
+[data-md-color-scheme="slate"] .md-typeset details.admonition.ccard {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+
+.md-typeset .admonition.ccard:hover {
+  transform: translateY(-2px);
+}
+
+/* Card Header */
+.md-typeset .admonition.ccard > .admonition-title,
+.md-typeset details.admonition.ccard > summary {
+  border-left-color: var(--ccard-color) !important;
+  background-color: color-mix(in srgb, var(--ccard-color) 12%, transparent) !important;
+  font-family: 'Unbounded', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-weight: 600;
+  font-size: 1.15rem;
+  letter-spacing: -0.01em;
+}
+
+.md-typeset .admonition.ccard > .admonition-title::before,
+.md-typeset details.admonition.ccard > summary::before {
+  background-color: var(--ccard-color) !important;
+}
+
+/* ============================================================
+   The Dedicated Red Section Card (Or Else What?)
+   ============================================================ */
+.md-typeset .admonition.danger.h2,
+.md-typeset .admonition.danger {
+  border-left-width: 4px !important;
+  border-left-color: #e11d48 !important;
+  border-radius: 10px;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.danger {
+  background-color: rgba(225, 29, 72, 0.12) !important;
+  box-shadow: 0 0 25px rgba(225, 29, 72, 0.2);
+}
+
+[data-md-color-scheme="default"] .md-typeset .admonition.danger {
+  background-color: #fff1f2 !important;
+}
+
+.md-typeset .admonition.danger > .admonition-title {
+  border-left-color: #e11d48 !important;
+  background-color: rgba(225, 29, 72, 0.2) !important;
+  color: #e11d48 !important;
+  font-family: 'Unbounded', sans-serif;
+  font-weight: 700;
+}
+
+.md-typeset .admonition.danger > .admonition-title::before {
+  background-color: #e11d48 !important;
+}
+
+/* Accessibility / Screen-reader only */
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
 }
