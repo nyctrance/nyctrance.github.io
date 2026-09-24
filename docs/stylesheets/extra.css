@@ -515,8 +515,29 @@ code, kbd, pre, .event-time, .badge {
   transition: none !important;
 }
 
-/* Second topic (Section / Page title) */
-.md-header__title .md-header__topic:nth-child(2) {
+/* Breadcrumb Links */
+.md-header__topic-link {
+  color: inherit !important;
+  text-decoration: none !important;
+  display: inline-flex;
+  align-items: center;
+  transition: opacity 0.2s ease;
+  cursor: pointer;
+}
+
+.md-header__topic-link:hover {
+  opacity: 0.85;
+  text-decoration: underline !important;
+}
+
+/* First topic (Site Name) */
+.md-header__topic:first-child {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+/* Any crumb after the first (Sections / Page titles) */
+.md-header__title .md-header__topic:not(:first-child) {
   display: inline-flex !important;
   align-items: center;
   color: rgba(255, 255, 255, 0.75);
@@ -524,15 +545,15 @@ code, kbd, pre, .event-time, .badge {
   font-size: 0.95rem;
 }
 
-.md-header__title .md-header__topic:nth-child(2)::before {
+.md-header__title .md-header__topic:not(:first-child)::before {
   content: "›";
   margin-right: 0.35rem;
   color: rgba(255, 255, 255, 0.45);
   font-weight: 300;
 }
 
-/* Hide breadcrumb second topic only if empty */
-.md-header__title:has(.md-header__topic:nth-child(2) span:empty) .md-header__topic:nth-child(2) {
+/* Hide breadcrumb topic only if empty */
+.md-header__title .md-header__topic:has(span:empty) {
   display: none !important;
 }
 
