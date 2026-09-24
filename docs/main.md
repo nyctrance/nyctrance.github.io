@@ -14,7 +14,7 @@
 
     Follow [our fetlife group](https://fetlife.com/groups/359152) to stay on top of scheduling & announcements.
 
-    **Attendance policy**  
-    [Read it here](consent.md).
+!!! ccard "Attendance Policy"
+    Please review our [consent guidelines and community agreements](consent.md) before attending. If you have questions, reach out to an organizer!
 
-    If you have questions, reach out to an organizer!
+    [![Read Consent & Attendance Policy](assets/open-page.svg)](consent.md){ .md-button .md-button--primary .btn-square title="Read Consent & Attendance Policy" }
