@@ -15,7 +15,7 @@
 
     **Hope to see you there!**
 
-    [View September 25th Event Details & FAQ](events/posts/2026-09-25-speed-trance.md){ .md-button .md-button--primary }
+    [![View September 25th Event Details & FAQ](assets/open-page.svg)](events/posts/2026-09-25-speed-trance.md){ .md-button .md-button--primary .btn-square title="View September 25th Event Details & FAQ" }
 
 !!! ccard "Monthly speed trance social"
     Meet people with a shared interest in mind-play!

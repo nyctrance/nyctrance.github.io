@@ -155,13 +155,39 @@ code, kbd, pre, .event-time, .badge {
    Right-Aligned & Vertically Centered Action Buttons in Cards
    ============================================================ */
 
+/* Square Icon Button */
+.md-typeset .md-button.btn-square {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 46px;
+  height: 46px;
+  min-width: 46px;
+  padding: 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(168, 85, 247, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  line-height: 1;
+}
+
+.md-typeset .md-button.btn-square:hover {
+  transform: scale(1.08);
+  box-shadow: 0 6px 18px rgba(168, 85, 247, 0.5);
+}
+
+.md-typeset .md-button.btn-square img {
+  width: 22px;
+  height: 22px;
+  display: block;
+}
+
 /* Desktop & tablet: when a card ends with a button paragraph, float it right and center */
-@media (min-width: 768px) {
+@media (min-width: 550px) {
   .md-typeset .admonition:has(> p:last-child > .md-button) {
     display: grid;
     grid-template-columns: 1fr auto;
     align-items: center;
-    column-gap: 2rem;
+    column-gap: 1.5rem;
   }
 
   .md-typeset .admonition:has(> p:last-child > .md-button) > .admonition-title {
