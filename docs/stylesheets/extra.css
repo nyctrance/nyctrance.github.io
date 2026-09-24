@@ -44,14 +44,26 @@ code, kbd, pre, .event-time, .badge {
    Navbar Logo & Joined 2-Column Tabular Layout
    ============================================================ */
 
-/* Mobile Header (< 60em): Single row with compact 36px logo */
-@media screen and (max-width: 59.9375em) {
+/* Drawer Mode (< 76.25em): Single compact row with Hamburger left of Logo */
+@media screen and (max-width: 76.234375em) {
+  .md-header__inner {
+    padding-left: 0.4rem !important;
+  }
+
+  /* Order 1: Hamburger button on the far left */
+  .md-header__button[for="__drawer"] {
+    order: 1 !important;
+    margin-right: 0.15rem !important;
+  }
+
+  /* Order 2: Logo to the right of Hamburger */
   .md-header__button.md-logo {
-    display: inline-flex;
+    order: 2 !important;
+    display: inline-flex !important;
     align-items: center;
     justify-content: center;
-    margin: 0 0.35rem 0 0;
-    padding: 0;
+    margin: 0 0.45rem 0 0.1rem !important;
+    padding: 0 !important;
   }
 
   .md-header__button.md-logo img {
@@ -62,10 +74,15 @@ code, kbd, pre, .event-time, .badge {
     box-shadow: 0 0 10px rgba(168, 85, 247, 0.45);
     display: block;
   }
+
+  /* Order 3: Site title & breadcrumb */
+  .md-header__title {
+    order: 3 !important;
+  }
 }
 
-/* Desktop Header (>= 60em): Joined 2-Column Tabular Layout */
-@media screen and (min-width: 60em) {
+/* Desktop Header (>= 76.25em): Joined 2-Column Tabular Layout */
+@media screen and (min-width: 76.25em) {
   /* Header inner: relative container with left padding for logo column */
   .md-header__inner {
     position: relative;
@@ -83,6 +100,7 @@ code, kbd, pre, .event-time, .badge {
     margin: 0;
     padding: 0;
     z-index: 10;
+    display: block !important;
   }
 
   .md-header__button.md-logo img {
@@ -330,7 +348,7 @@ code, kbd, pre, .event-time, .badge {
    ============================================================ */
 
 /* Desktop: Remove the redundant left navigation gutter completely */
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 76.25em) {
   .md-sidebar--primary {
     display: none !important;
   }
