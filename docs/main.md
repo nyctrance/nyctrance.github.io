@@ -1,3 +1,7 @@
+!!! ccard ""
+    A little social club for those around the big city with open minds.
+    {: .subtitle }
+
 !!! ccard "Upcoming Events"
     --8<-- "events/posts/2026-09-25-speed-trance.md:summary"
 

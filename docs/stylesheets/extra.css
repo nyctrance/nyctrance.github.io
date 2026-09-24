@@ -40,35 +40,87 @@ code, kbd, pre, .event-time, .badge {
   font-family: 'Space Mono', SFMono-Regular, Menlo, Monaco, Consolas, monospace;
 }
 
-/* Navbar Logo */
-.md-header__button.md-logo img, 
-.md-header__button.md-logo svg {
-  border-radius: 50%;
-  box-shadow: 0 0 10px rgba(168, 85, 247, 0.4);
-}
+/* ============================================================
+   Navbar Logo & Joined 2-Column Tabular Layout
+   ============================================================ */
 
-/* Hero Branding Section */
-.hero-container {
-  display: flex;
-  align-items: center;
-  gap: 1.75rem;
-  margin: 1.5rem 0 2rem;
-}
-
-.hero-spiral {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  border: 3px solid #a855f7;
-  box-shadow: 0 0 20px rgba(168, 85, 247, 0.35);
-  flex-shrink: 0;
-}
-
-@media (max-width: 600px) {
-  .hero-container {
-    flex-direction: column;
-    text-align: center;
+/* Mobile Header (< 60em): Single row with compact 36px logo */
+@media screen and (max-width: 59.9375em) {
+  .md-header__button.md-logo {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 0.35rem 0 0;
+    padding: 0;
   }
+
+  .md-header__button.md-logo img {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 2px solid #a855f7;
+    box-shadow: 0 0 10px rgba(168, 85, 247, 0.45);
+    display: block;
+  }
+}
+
+/* Desktop Header (>= 60em): Joined 2-Column Tabular Layout */
+@media screen and (min-width: 60em) {
+  /* Header inner: relative container with left padding for logo column */
+  .md-header__inner {
+    position: relative;
+    padding-left: 80px !important;
+  }
+
+  /* Column 1: Big circular spiral logo spanning across both rows */
+  .md-header__button.md-logo {
+    position: absolute;
+    left: 0.6rem;
+    top: 48px;
+    transform: translateY(-50%);
+    width: 62px;
+    height: 62px;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+  }
+
+  .md-header__button.md-logo img {
+    width: 62px;
+    height: 62px;
+    border-radius: 50%;
+    border: 2.5px solid #a855f7;
+    box-shadow: 0 0 18px rgba(168, 85, 247, 0.55);
+    display: block;
+    object-fit: cover;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+
+  .md-header__button.md-logo:hover img {
+    transform: scale(1.06);
+    box-shadow: 0 0 24px rgba(168, 85, 247, 0.75);
+  }
+
+  /* Column 2, Row 2: Nav Tabs align flush with Title / Breadcrumb */
+  .md-tabs > .md-grid {
+    padding-left: 80px !important;
+  }
+}
+
+/* ============================================================
+   Home Page Hero Subtitle Card
+   ============================================================ */
+.md-typeset .admonition.ccard:not(:has(> .admonition-title)) {
+  padding: 1.15rem 1.5rem !important;
+}
+
+.md-typeset .subtitle {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.55;
+  letter-spacing: -0.01em;
+  margin: 0 !important;
+  color: var(--md-default-fg-color);
 }
 
 /* ============================================================
