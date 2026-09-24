@@ -1,5 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Unbounded:wght@600;700;800;900&display=swap');
 
+/* ============================================================
+   Day / Light Theme Palette Overrides
+   Replaces stark 100% white with a gentle, glare-free
+   lavender-pearl / alabaster canvas that complements our purple branding.
+   ============================================================ */
+[data-md-color-scheme="default"] {
+  /* Canvas backgrounds */
+  --md-default-bg-color: #f6f4f8;          /* Soft pearl-lavender canvas */
+  --md-default-bg-color--light: #eeeaf2;   /* Secondary containers / code */
+  --md-default-bg-color--lighter: #f3f0f6;
+  --md-default-bg-color--lightest: #faf9fb;
+
+  /* Typography: deep plum-charcoal text instead of harsh #000 */
+  --md-default-fg-color: #232029;
+  --md-default-fg-color--light: #5e586a;
+  --md-default-fg-color--lighter: #8e879c;
+  --md-default-fg-color--lightest: #dedae4;
+
+  /* Code blocks & badges */
+  --md-code-bg-color: #ece8f1;
+  --md-code-fg-color: #2e2838;
+
+  /* Link color */
+  --md-typeset-a-color: #7e22ce;
+
+  /* Footer */
+  --md-footer-bg-color: #ece8f2;
+  --md-footer-bg-color--dark: #e2dce9;
+}
+
 /* Typography Overrides */
 h1, h2, h3, .md-header__title, .hero-title {
   font-family: 'Unbounded', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -88,8 +118,8 @@ code, kbd, pre, .event-time, .badge {
 /* Light / Default theme: Soft pastel tinted backgrounds */
 [data-md-color-scheme="default"] .md-typeset .admonition.ccard,
 [data-md-color-scheme="default"] .md-typeset details.admonition.ccard {
-  background-color: color-mix(in srgb, var(--ccard-color) 8%, #ffffff) !important;
-  box-shadow: 0 4px 16px color-mix(in srgb, var(--ccard-color) 12%, transparent);
+  background-color: color-mix(in srgb, var(--ccard-color) 8.5%, #ffffff) !important;
+  box-shadow: 0 4px 14px rgba(35, 32, 41, 0.05), 0 2px 6px color-mix(in srgb, var(--ccard-color) 12%, transparent);
 }
 
 .md-typeset .admonition.ccard:hover {
