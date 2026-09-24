@@ -303,6 +303,136 @@ code, kbd, pre, .event-time, .badge {
   }
 }
 
+/* ============================================================
+   Event Feed Post Cards (.md-post--excerpt)
+   Presents event excerpts as interactive round-robin cards
+   with a right-aligned square open-page action button.
+   ============================================================ */
+
+/* 5-Color cycle for event cards */
+.md-post.md-post--excerpt:nth-child(5n + 1) { --ccard-color: #a855f7; }
+.md-post.md-post--excerpt:nth-child(5n + 2) { --ccard-color: #f59e0b; }
+.md-post.md-post--excerpt:nth-child(5n + 3) { --ccard-color: #818cf8; }
+.md-post.md-post--excerpt:nth-child(5n + 4) { --ccard-color: #2dd4bf; }
+.md-post.md-post--excerpt:nth-child(5n + 5) { --ccard-color: #f472b6; }
+
+/* Event Card Container */
+.md-post.md-post--excerpt {
+  border: 1.5px solid var(--ccard-color) !important;
+  border-left-width: 5px !important;
+  border-radius: 12px;
+  margin: 1.5rem 0 2rem;
+  padding: 1.25rem 1.5rem !important;
+  position: relative;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+[data-md-color-scheme="slate"] .md-post.md-post--excerpt {
+  background-color: color-mix(in srgb, var(--ccard-color) 12%, #14151f) !important;
+  box-shadow: 0 4px 20px color-mix(in srgb, var(--ccard-color) 18%, transparent);
+}
+
+[data-md-color-scheme="default"] .md-post.md-post--excerpt {
+  background-color: color-mix(in srgb, var(--ccard-color) 8.5%, #ffffff) !important;
+  box-shadow: 0 4px 14px rgba(35, 32, 41, 0.05), 0 2px 6px color-mix(in srgb, var(--ccard-color) 12%, transparent);
+}
+
+.md-post.md-post--excerpt:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px color-mix(in srgb, var(--ccard-color) 28%, transparent);
+}
+
+/* Metadata subheader */
+.md-post.md-post--excerpt .md-post__header {
+  margin-bottom: 0.35rem !important;
+}
+
+.md-post.md-post--excerpt .md-post__meta {
+  font-family: 'Space Mono', SFMono-Regular, Menlo, Monaco, monospace;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Event Card Title */
+.md-post.md-post--excerpt .md-post__content > h2 {
+  font-family: 'Unbounded', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-weight: 600;
+  font-size: 1.25rem !important;
+  margin: 0.25rem 0 0.75rem !important;
+  letter-spacing: -0.01em;
+}
+
+.md-post.md-post--excerpt .md-post__content > h2 a.toclink {
+  color: var(--ccard-color) !important;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.md-post.md-post--excerpt .md-post__content > h2 a.toclink:hover {
+  opacity: 0.85;
+  text-decoration: underline;
+}
+
+/* Right-aligned Square Action Button */
+@media (min-width: 550px) {
+  .md-post.md-post--excerpt {
+    padding-right: 5.5rem !important;
+  }
+
+  .md-post.md-post--excerpt .md-post__action {
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0 !important;
+  }
+}
+
+@media (max-width: 549px) {
+  .md-post.md-post--excerpt .md-post__action {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+.md-post.md-post--excerpt .md-post__action a {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 46px !important;
+  height: 46px !important;
+  min-width: 46px !important;
+  padding: 0 !important;
+  border-radius: 10px !important;
+  background-color: var(--md-primary-fg-color) !important;
+  box-shadow: 0 4px 12px rgba(168, 85, 247, 0.35) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease !important;
+  font-size: 0 !important;
+  color: transparent !important;
+  line-height: 1 !important;
+  text-decoration: none !important;
+}
+
+.md-post.md-post--excerpt .md-post__action a::before {
+  content: "";
+  display: block;
+  width: 22px;
+  height: 22px;
+  background-image: url("../assets/open-page.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.md-post.md-post--excerpt:hover .md-post__action a,
+.md-post.md-post--excerpt .md-post__action a:hover {
+  transform: scale(1.08) !important;
+  box-shadow: 0 6px 18px rgba(168, 85, 247, 0.5) !important;
+  background-color: #9333ea !important;
+}
+
 /* Also support explicit side-by-side flex split container if ever used */
 .card-split {
   display: flex;
