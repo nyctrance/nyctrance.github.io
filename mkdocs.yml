@@ -66,7 +66,7 @@ plugins:
   - blog:
       blog_dir: events
       blog_toc: true
-      post_url_format: "{date}-{slug}"
+      post_url_format: "{slug}"
       archive: false
 
 nav:

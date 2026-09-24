@@ -1,6 +1,7 @@
 ---
 date: 2026-09-25
 title: September 25th Speed Trance & Munch
+slug: 2026-09-25-speed-trance
 description: Monthly speed trance social and workshop in Chelsea
 categories:
   - Speed Trance
@@ -10,8 +11,8 @@ categories:
 # September 25th Speed Trance & Munch
 
 <!-- --8<-- [start:summary] -->
-* **Sept 25th munch 5pm-6pm**
-* **Sept 25th speed trance 6pm-10pm**
+* **munch** Sept 25th 5pm-6pm
+* **speed trance** Sept 25th 6pm-10pm
 
 **Hope to see you there!**
 <!-- --8<-- [end:summary] -->
