@@ -86,8 +86,9 @@ code, kbd, pre, .event-time, .badge {
     order: 4 !important;
   }
 
-  /* Order 5: Search button (on right) */
-  .md-header__button[for="__search"] {
+  /* Order 5: Search button and Search input box (on right) */
+  .md-header__button[for="__search"],
+  .md-search {
     order: 5 !important;
   }
 
