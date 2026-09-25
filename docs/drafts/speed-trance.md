@@ -31,8 +31,7 @@ pagination: true
 
     ### Room Setup & Logistics {: #overview-room }
     * Scattered pairs of facing chairs (inner ring stays seated; outer ring rotates).
-    * Nametags: **Red** (Tops/Hypnotists), **Yellow** (Switches), **Blue** (Bottoms/Subjects).
-    * Rotations provide natural, self-directed bio-break buffers without halting room momentum.
+    * Nametags: **Green** (please help me avoid mistakes!), **anything else** Normal amounts of space plz.
 
 !!! ccard h2 "1. Preamble (18:00 – 18:30)" {:preamble}
     *Setting mental models, communication foundations, and negotiations.*
@@ -40,7 +39,7 @@ pagination: true
     ### Core Models {: #preamble-models }
     *All models are lies. Some are useful.*
 
-    ### 1. Operating under different rules {: #preamble-rules }
+    ### 1. Play operates under different rules {: #preamble-rules }
     * Soccer: no hands, yes chase.
     * Workspace: yes hands, no chase.
 
