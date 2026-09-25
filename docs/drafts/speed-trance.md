@@ -28,7 +28,7 @@ pagination: true
         * `21:15 – 21:35`: **Practice 5**: Handshake Interrupt, Fractionation & Triggers
         * `21:35 – 21:45`: Closing Ceremonies (Room-wide grounding & de-roling)
         * `21:45 – 22:00+`: Open Floor & Free Play
-    
+
     ### Room Setup & Logistics {: #overview-room }
     * Scattered pairs of facing chairs (inner ring stays seated; outer ring rotates).
     * Nametags: **Red** (Tops/Hypnotists), **Yellow** (Switches), **Blue** (Bottoms/Subjects).
@@ -38,33 +38,38 @@ pagination: true
     *Setting mental models, communication foundations, and negotiations.*
 
     ### Core Models {: #preamble-models }
-    0. *All models are lies. Some are useful.*
-    1. **Operating under different rules**:
-        * Soccer: no hands, yes chase.
-        * Workspace: yes hands, no chase.
-    2. **Play is consent** (FRIES; boxing vs assault):
-        * **F**reely given
-        * **R**eversible
-        * **I**nformed
-        * **E**nthusiastic (& Explicit!)
-        * **S**pecific
-    3. **The subject does the work** (HOT):
-        * **Higher-Order Thought (HOT)**: Conscious experience happens when we have meta-thoughts about our own underlying mental states (*Rosenthal*).
-        * **Cold Control**: A hypnotic response is a voluntary, executive action performed while avoiding the higher-order thought of *intending* it (*Dienes*).
-        * *TL;DR*: The subject's brain is doing the heavy lifting; "intention" and "automaticity" are subjective experiences.
-    4. **The hypnotist directs the subject** (CREAM; director vs method actor):
-        * **C**ontext (setting the expectation that hypnosis is happening)
-        * **R**apport (connection; sympathetic, authoritative, or playful)
-        * **E**xpectation (what the subject believes will occur)
-        * **A**bsorption (the subject's focus material)
-        * **M**otivation (why they want to participate)
-    5. *Therefore, negotiation opens context for the subject to play by different rules.*
+    *All models are lies. Some are useful.*
 
-    ### Negotiation {: #preamble-negotiation }
-    * Touch? Where, how?
-    * Suggestions? (Hypnotic) triggers? Limits?
-    * Preexistings: phobias? (Emotional) triggers? Medical conditions?
-    * Style (permissive vs authoritative; direct vs indirect; fast vs slow).
+    ### 1. Operating under different rules {: #preamble-rules }
+    * Soccer: no hands, yes chase.
+    * Workspace: yes hands, no chase.
+
+    ### 2. Play is consent (FRIES; boxing vs assault) {: #preamble-consent }
+    * **F**reely given
+    * **R**eversible
+    * **I**nformed
+    * **E**nthusiastic (& Explicit!)
+    * **S**pecific
+
+    ### 3. The subject does the work (HOT & Cold Control) {: #preamble-science }
+    * **Higher-Order Thought (HOT)**: Conscious experience happens when we have meta-thoughts about our own underlying mental states (*Rosenthal*).
+    * **Cold Control**: A hypnotic response is a voluntary, executive action performed while avoiding the higher-order thought of *intending* it (*Dienes*).
+    * *TL;DR*: The subject's brain is doing the heavy lifting; "intention" and "automaticity" are subjective experiences.
+
+    ### 4. The hypnotist directs the subject (CREAM) {: #preamble-cream }
+    * **C**ontext: setting the expectation that hypnosis is happening
+    * **R**apport: connection; sympathetic, authoritative, or playful
+    * **E**xpectation: what the subject believes will occur
+    * **A**bsorption: the subject's focus material
+    * **M**otivation: why they want to participate
+
+    ### 5. Negotiation {: #preamble-negotiation }
+    *Therefore, negotiation opens context for the subject to play by different rules.*
+
+    * Touch?: Where, how?
+    * Suggestions?: Hypnotic triggers? Limits?
+    * Preexistings?: phobias? (Emotional) triggers? Medical conditions?
+    * Style?: permissive vs authoritative; direct vs indirect; fast vs slow.
 
 !!! ccard h2 "2. Opening Ceremonies (18:30 – 18:40)" {:opening-ceremonies}
     *Lock the doors! Establishing the golden circle.*
