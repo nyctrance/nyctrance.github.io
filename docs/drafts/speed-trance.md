@@ -17,23 +17,23 @@ pagination: true
     ### Workshop Logistics {: #overview-logistics }
     * **Format**: 4-Hour Recreational / Kink Hypnosis Workshop (6:00 PM – 10:00 PM)
     * **Schedule Architecture (Alternating Theory & Practice)**:
-        * `18:00 – 18:30`: Arrival & Preamble (Core models: FRIES, HOT, Cold Control, CREAM)
-        * `18:30 – 18:40`: Opening Ceremonies (Lock doors, consent checkpoint, house rules)
-        * `18:40 – 19:00`: **Practice 1**: Breathwork — Pacing & Leading; Wakeners
-        * `19:00 – 19:20`: **Theory 1**: Subject Skills
-        * `19:20 – 19:50`: **Practice 2**: Progressive Muscle Relaxation & Arm Catalepsy
-        * `19:50 – 20:20`: **Practice 3**: Eye Fixation Inductions & Sensory Deepeners
-        * `20:20 – 20:45`: **Theory 2**: "Difficult Brains", Analytical Minds & Cognitive Overload
-        * `20:45 – 21:15`: **Practice 4**: Confusion Inductions (Sunset Clouds / "I don't know")
-        * `21:15 – 21:35`: **Practice 5**: Handshake Interrupt, Fractionation & Triggers
-        * `21:35 – 21:45`: Closing Ceremonies (Room-wide grounding & de-roling)
-        * `21:45 – 22:00+`: Open Floor & Free Play
+        * `18:00 – 18:20`: **1. Preamble** (Core models: FRIES, HOT, Cold Control, CREAM)
+        * `18:20 – 18:30`: **2. Opening Ceremonies** (Lock doors, consent checkpoint, house rules)
+        * `18:30 – 18:50`: **3. Practice 1**: Breathwork — Pacing & Leading; Wakeners
+        * `18:50 – 19:10`: **4. Theory 1**: Subject Skills
+        * `19:10 – 19:40`: **5. Practice 2**: Progressive Muscle Relaxation & Arm Catalepsy
+        * `19:40 – 20:10`: **6. Practice 3**: Eye Fixation Inductions & Sensory Deepeners
+        * `20:10 – 20:30`: **7. Theory 2**: "Difficult Brains", Analytical Minds & Cognitive Overload
+        * `20:30 – 21:00`: **8. Practice 4**: Handshake Interrupt, Fractionation & Triggers
+        * `21:00 – 21:10`: **9. Closing Ceremonies** (Room-wide grounding & de-roling)
+        * `21:10 – 21:30`: **10. Encore**: Confusion Inductions & The "I Don't Know" Game
+        * `21:30 – 22:00+`: **11. Open Floor & Free Play**
 
     ### Room Setup & Logistics {: #overview-room }
     * Scattered pairs of facing chairs (inner ring stays seated; outer ring rotates).
-    * Nametags: **Green** (please help me avoid mistakes!), **anything else** Normal amounts of space plz.
+    * Nametags: **Green** (welcome active coaching/corrections during practice), **anything else** (normal amounts of space; play without unsolicited interventions).
 
-!!! ccard h2 "1. Preamble (18:00 – 18:30)" {:preamble}
+!!! ccard h2 "1. Preamble (18:00 – 18:20)" {:preamble}
     *Setting mental models, communication foundations, and negotiations.*
 
     ### Core Models {: #preamble-models }
@@ -43,12 +43,14 @@ pagination: true
 
     #### 1. The Magic Circle {: #preamble-rules }
     *The 'consecrated spot' cannot be formally distinguished from the play-ground.* [(*Johan Huizinga*)](https://en.wikipedia.org/wiki/Magic_circle_(games))
+
     * Soccer: no hands, yes chase.
     * Workspace: yes hands, no chase.
     * [I once cried at a sudoku because of friendship!](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000N4Q)
 
     #### 2. Consent creates play {: #preamble-consent }
     *what separates boxing from assault?*
+
     * **F**reely given
     * **R**eversible
     * **I**nformed
@@ -57,12 +59,14 @@ pagination: true
 
     #### 3. The player is the subject {: #preamble-science }
     *this is about behavior and experiences*
+
     * **Higher-Order Thought (HOT)**: Conscious experience happens when we have meta-thoughts about our own underlying mental states (*David Rosenthal*).
     * **Cold Control**: A hypnotic response is a voluntary, executive action performed while avoiding the higher-order thought of *intending* it (*Zoltan Dienes*).
     * *TL;DR*: The subject's brain is doing the heavy lifting; "intention" and "automaticity" are subjective experiences.
 
     #### 4. The hypnotist is the director {: #preamble-cream }
     *You have to make the golden circle and invite your player*
+
     * **C**ontext: setting the expectation that hypnosis is happening
     * **R**apport: connection; sympathetic, authoritative, or playful
     * **E**xpectation: what the subject believes will occur
@@ -71,12 +75,13 @@ pagination: true
 
     #### 5. Negotiation {: #preamble-negotiation }
     *Therefore: the hypnotist and subject use negotiation to establish trust and the context of play.*
+
     * Touch?: Where, how?
     * Suggestions?: Hypnotic triggers? Limits?
     * Preexistings?: phobias? (Emotional) triggers? Medical conditions?
     * Style?: permissive vs authoritative; direct vs indirect; fast vs slow; modalities...
 
-!!! ccard h2 "2. Opening Ceremonies (18:30 – 18:40)" {:opening-ceremonies}
+!!! ccard h2 "2. Opening Ceremonies (18:20 – 18:30)" {:opening-ceremonies}
     *Lock the doors! Establishing our golden circle.*
 
     ### Group Agreement & Consent {: #opening-agreements }
@@ -98,11 +103,11 @@ pagination: true
         1. Breathing meditation
         2. PMR + Arm catalepsy
         3. Eye Fixation + Eat an apple
-        4. Confusion + You Don't Know
-        5. Kinesthetic + Fractionation + Have a longer weekend
+        4. Kinesthetic + Fractionation + Have a longer weekend
+        *(Encore demo: Confusion + You Don't Know)*
     * And someone seated adjacent who knows what they're doing to show demo friends a different experience during the turn.
 
-!!! ccard h2 "3. Practice 1: Breathwork — Pacing & Leading (18:40 – 19:00)" {:practice-1-breathwork}
+!!! ccard h2 "3. Practice 1: Breathwork — Pacing & Leading (18:30 – 18:50)" {:practice-1-breathwork}
     *Low-stakes calibration; synchronizing rhythm without complex suggestions.*
 
     ### Concept {: #practice-1-concept }
@@ -138,7 +143,7 @@ pagination: true
 
     > 3. **Up up up! Wide awake!**
 
-!!! ccard h2 "4. Theory 1: Subject Skills (19:00 – 19:20)" {:theory-1-subject-skills}
+!!! ccard h2 "4. Theory 1: Subject Skills (18:50 – 19:10)" {:theory-1-subject-skills}
     *Reframing the subject's role from passive to active, defining core skills, and establishing brakes.*
 
     ### Subject Skills {: #theory-1-skills }
@@ -164,7 +169,7 @@ pagination: true
         * 🔴 **Red**: Stop immediately, end scene (or continuous tapping).
     * **Agency**: All hypnosis is self-hypnosis. You are never trapped: count up, stretch, and wake yourself up. No mind-work needs to last any longer than you agreed.
 
-!!! ccard h2 "5. Practice 2: Progressive Muscle Relaxation & Catalepsy (19:20 – 19:50)" {:practice-2-pmr-catalepsy}
+!!! ccard h2 "5. Practice 2: Progressive Muscle Relaxation & Catalepsy (19:10 – 19:40)" {:practice-2-pmr-catalepsy}
     *Putting it together, relaxation, suggestion.*
 
     ### Concept {: #practice-2-concept }
@@ -204,11 +209,11 @@ pagination: true
     ### Phase 5: Wakener {: #practice-2-wakener }
     * Count up 1-2-3, shake out, clear.
 
-!!! ccard h2 "6. Practice 3: Eye Fixation Inductions & Sensory Deepeners (19:50 – 20:20)" {:practice-3-eye-fixation}
+!!! ccard h2 "6. Practice 3: Eye Fixation Inductions & Sensory Deepeners (19:40 – 20:10)" {:practice-3-eye-fixation}
     *Same idea, totally different, and much faster!*
 
     ### Concept {: #practice-3-concept }
-    * **Time Budget**: 5 min discussion, 5 min demo, 15 min partner practice.
+    * **Time Budget**: 5 min discussion, 10 min demo, 15 min partner practice.
     * **Fatigue Mechanics**: Focus and angle exhaust the eyes. Chain the relief of closing them directly into dropping into trance.
     * **Geometry**: 8–12 inches out, 35°–45° above eye level; crossed eyes looking up are hard to sustain. Watch for eye quiver, glassiness, blinking.
     * **Deepener**: Fast induction, so have something ready immediately to drive absorption.
@@ -242,6 +247,7 @@ pagination: true
 
     ### Phase 3: Multi-Sensory Deepener (Apple) {: #practice-3-apple }
     *Remember cutting up an apple.*
+
     * **Layer senses**: Glossy peel, cold firm touch, sweet aroma.
     * **Biting in**: Crisp, juicy, tart flavor causing saliva to pool on your tongue.
     * **Shared action**:
@@ -253,7 +259,7 @@ pagination: true
     ### Phase 4: Wakener {: #practice-3-wakener }
     * 1-2-3 count-up, alert and refreshed.
 
-!!! ccard h2 "7. Theory 2: Modalities, Styles & \"Tricky Brains\" (20:20 – 20:45)" {:theory-2-tricky-brains}
+!!! ccard h2 "7. Theory 2: Modalities, Styles & \"Tricky Brains\" (20:10 – 20:30)" {:theory-2-tricky-brains}
     *Why relaxation fails racing minds, neurodiverse sensory profiles, and how to harness cognitive overload.*
 
     ### Sensory Modalities (VAKOG) {: #theory-2-modalities }
@@ -279,11 +285,82 @@ pagination: true
     * **On Guard**: Braces against losing control or vulnerability → High rapport. Permissive, indirect language. Transparency.
     * **Brat**: Resists direct orders (*"You will sleep"*) → Double binds, playful challenges, and rapid utilization.
 
-!!! ccard h2 "8. Practice 4: Confusion Inductions (20:45 – 21:15)" {:practice-4-confusion}
-    *Putting cognitive overload into practice; the sudden relief of pattern interrupts.*
+!!! ccard h2 "8. Practice 4: Handshake Interrupt, Fractionation & Triggers (20:30 – 21:00)" {:practice-4-fractionation}
+    *Instructor showcase & advanced synthesis of the entire evening.*
 
     ### Concept {: #practice-4-concept }
-    * **Time Budget**: 5 min discussion, 5 min demo, 15 min partner practice.
+    * **Time Budget**: 5 min discussion, 10 min demo, 15 min partner practice.
+    * **Mechanics**:
+        * **Kinesthetic Interrupt**: Transderivational search (*"What just happened?"*).
+        * **Triggers**: Conditioned cues for rapid reinduction.
+        * **Fractionation**: Rapid cycling between waking and trance drops the subject deeper each time.
+    * **Joint Safety**: Gentle downward guidance; **NEVER** jerk the elbow or yank the shoulder. 6 times up and down is usually sufficient.
+
+    ### Negotiation {: #practice-4-negotiation }
+    * Ready for rapid trance work / fractionation?
+    * Touch consent: hands, wrists, arms, shoulders (gentle downward pull).
+    * Triggers: trance / awake.
+    * Time dilation suggestion: weekend-long hypno convention practicing subject skills.
+
+    ### Phase 1: Ambiguous Handshake Induction {: #practice-4-handshake }
+    * **Mirror squeeze game**:
+
+        > "Every time I squeeze this hand, you squeeze this hand; when I squeeze that hand, you squeeze that hand."
+
+    * **Verbal drift**:
+
+        > "Dreamy... drowsy... droopy... sleepy... trancey..."
+
+    * **Interrupt**: Break rhythm, smooth downward draw →
+
+        > "Drop! Letting go, nice and deep."
+
+    ### Phase 2: Fractionation Cycling {: #practice-4-cycling }
+    * Up up up 1-2-3 awake → check in → Down down down.
+    * Deepen → Up up up 1-2-3 → Down down down (twice as deep).
+    * **Mental multiplication**:
+
+        > "Imagine doing this twice..." → Up up up 1-2-3 → Down down down (four times as deep).
+
+    * Rapid stacking: Up... down down down. Up up... down down down. Down. Down. Down.
+
+    ### Phase 3: Time Dilation {: #practice-4-time-dilation }
+    
+    > "Up, open your eyes, remain in trance... Close your eyes, down down down."
+
+    > Stack doing it a dozen times. Then for an hour, or a day. Take a break, do it another hour, then another day.
+
+    > Remembering practicing this dozens, hundreds of times with every partner you want to...
+
+    > Feels like you've been doing this all weekend... a lovely vacation away from everything else, zero obligations, free to relax and practice. Becoming so natural at engaging, imagining, and playing the way you want to.
+
+    > "Some confusion over how long we spent doing this is natural; just feeling great having had a trance that lasted weeks longer than anyone else's.
+
+    ### Phase 4: Wakener & Wipe Ritual {: #practice-4-wakener }
+    * 1 to 5 count-up: feeling in toes, triggers fading, stretching, alert, wide awake!
+    * **Brush arm and shoulder from neck to fingertips**:
+
+        > "And back, with the whole weekend still ahead of you."
+
+!!! ccard h2 "9. Closing Ceremonies & Class Dissolution (21:00 – 21:10)" {:closing-ceremonies}
+    *Formal room grounding, suggestion clearing, and interpersonal de-roling.*
+
+    ### 60-Second Grounding {: #closing-grounding }
+    1. **Ending Hypnotic Context**:
+        * Class ends here, and with it all formal mind-work.
+        * Every suggestion, trance, or trigger followed tonight is gone, dissolved, and ended.
+        * 1-2-3 up up up wide awake!
+    2. **Physical Reset**: Everyone stands up, stomps feet, rolls shoulders, takes 3 deep breaths.
+    3. **Unroling**: Look your partner in the eye; shake hands as everyday humans. Tops and bottoms formally de-roled.
+
+    ### Transition to Open Floor {: #closing-open-floor }
+    * Hydration, restrooms, aftercare support.
+
+!!! ccard h2 "10. Encore: Confusion Inductions & The \"I Don't Know\" Game (21:10 – 21:30)" {:encore-confusion}
+    *Post-closing showcase demo and high-energy party game.*
+
+    ### Concept {: #encore-concept }
+    * **Time Budget**: 5 min discussion, 5 min demo, 10 min game play.
     * **Cognitive Overload (7 ± 2)**: Working memory bandwidth has a physiological limit. Multi-sensory saturation overloads working memory.
     * **The Pattern Interrupt**: Attention jams; the snap/drop abruptly collapses all tracks into one single peaceful release.
     * **Tips**:
@@ -291,11 +368,11 @@ pagination: true
         * **Continuous Flow**: Keep patter moving without long pauses so the subject stays busy.
         * **Find & Hit the Limit**: When you see confusion set in, execute the drop immediately.
 
-    ### Negotiation {: #practice-4-negotiation }
+    ### Negotiation {: #encore-negotiation }
     * Familiarity & comfort with cognitive disorientation.
     * Choose exercise: **Sunset Clouds** (mind-blank) vs an amnesia game (**"I Don't Know"**).
 
-    ### Phase 1: 7 ± 2 Overload Induction {: #practice-4-overload }
+    ### Phase 1: 7 ± 2 Overload Induction {: #encore-overload }
     Rapid, continuous sensory layering:
 
     1. Sound of my voice & cadence
@@ -308,7 +385,7 @@ pagination: true
     8. Sensation in arms (heavy, light, tingly)
     9. First bite of favorite food
 
-    ### Phase 2: The Drop {: #practice-4-drop }
+    ### Phase 2: The Drop {: #encore-drop }
     *Cycle items rapidly, then collapse:*
 
     > "How wonderful will it feel when I ask you to think of only one thing instead of 9... how good it feels to think of only one thing... let it all go... DROP" *[Snap!]*
@@ -317,7 +394,7 @@ pagination: true
 
     > "All done with thinking for a little bit; you worked really hard. Rest in this pleasant hypnotic state."
 
-    ### Option A: Sunset Clouds {: #practice-4-clouds }
+    ### Option A: Sunset Clouds {: #encore-clouds }
     * Sunset sky with clouds representing thoughts and chores.
     * *"Blank"* → cloud dips below the horizon.
     * *"Empty"* → forget the cloud, mind clear.
@@ -329,7 +406,7 @@ pagination: true
 
         > "Do you know what a good subject you are? You do know! 1, 2, 3 awake!"
 
-    ### Option B: The "I Don't Know" Game {: #practice-4-idk-game }
+    ### Option B: The "I Don't Know" Game {: #encore-idk-game }
     * **Suggestion**: Natural urge to reply "I don't know" to everything until hearing "You do know."
     * **Plausible reasons**: Keeping a secret, being coy, it's silly, you forgot, that's not real.
     * Wake to eyes-open pretend (count 1-2-3).
@@ -345,82 +422,14 @@ pagination: true
 
         > "Do you know what a good subject you are? You DO know. Awake now, all those answers coming back!"
 
-!!! ccard h2 "9. Practice 5: Handshake Interrupt, Fractionation & Triggers (21:15 – 21:35)" {:practice-5-fractionation}
-    *Instructor showcase & advanced synthesis of the entire evening.*
-
-    ### Concept {: #practice-5-concept }
-    * **Time Budget**: 10 min demo, 10 min partner practice.
-    * **Mechanics**:
-        * **Kinesthetic Interrupt**: Transderivational search (*"What just happened?"*).
-        * **Triggers**: Conditioned cues for rapid reinduction.
-        * **Fractionation**: Rapid cycling between waking and trance drops the subject deeper each time.
-    * **Joint Safety**: Gentle downward guidance; **NEVER** jerk the elbow or yank the shoulder. 6 times up and down is usually sufficient.
-
-    ### Negotiation {: #practice-5-negotiation }
-    * Ready for rapid trance work / fractionation?
-    * Touch consent: hands, wrists, arms, shoulders (gentle downward pull).
-    * Triggers: trance / awake.
-    * Time dilation suggestion: weekend-long hypno convention practicing subject skills.
-
-    ### Phase 1: Ambiguous Handshake Induction {: #practice-5-handshake }
-    * **Mirror squeeze game**:
-
-        > "Every time I squeeze this hand, you squeeze this hand; when I squeeze that hand, you squeeze that hand."
-
-    * **Verbal drift**:
-
-        > "Dreamy... drowsy... droopy... sleepy... trancey..."
-
-    * **Interrupt**: Break rhythm, smooth downward draw →
-
-        > "Drop! Letting go, nice and deep."
-
-    ### Phase 2: Fractionation Cycling {: #practice-5-cycling }
-    * Up up up 1-2-3 awake → check in → Down down down.
-    * Deepen → Up up up 1-2-3 → Down down down (twice as deep).
-    * **Mental multiplication**:
-
-        > "Imagine doing this twice..." → Up up up 1-2-3 → Down down down (four times as deep).
-
-    * Rapid stacking: Up... down down down. Up up... down down down. Down. Down. Down.
-
-    ### Phase 3: Time Dilation {: #practice-5-time-dilation }
-    
-    > "Up, open your eyes, remain in trance... Close your eyes, down down down."
-
-    > Stack doing it a dozen times. Then for an hour, or a day. Take a break, do it another hour, then another day.
-
-    > Remembering practicing this dozens, hundreds of times with every partner you want to...
-
-    > Feels like you've been doing this all weekend... a lovely vacation away from everything else, zero obligations, free to relax and practice. Becoming so natural at engaging, imagining, and playing the way you want to.
-
-    > "Some confusion over how long we spent doing this is natural; just feeling great having had a trance that lasted weeks longer than anyone else's.
-
-    ### Phase 4: Wakener & Wipe Ritual {: #practice-5-wakener }
-    * 1 to 5 count-up: feeling in toes, triggers fading, stretching, alert, wide awake!
-    * **Brush arm and shoulder from neck to fingertips**:
-
-        > "And back, with the whole weekend still ahead of you."
-
-!!! ccard h2 "10. Closing Ceremonies & Class Dissolution (21:35 – 21:45)" {:closing-ceremonies}
-    *Formal room grounding, suggestion clearing, and interpersonal de-roling.*
-
-    ### 60-Second Grounding {: #closing-grounding }
-    1. **Ending Hypnotic Context**:
-        * Class ends here, and with it all formal mind-work.
-        * Every suggestion, trance, or trigger followed tonight is gone, dissolved, and ended.
-        * 1-2-3 up up up wide awake!
-    2. **Physical Reset**: Everyone stands up, stomps feet, rolls shoulders, takes 3 deep breaths.
-    3. **Unroling**: Look your partner in the eye; shake hands as everyday humans. Tops and bottoms formally de-roled.
-
-    ### Transition to Open Floor {: #closing-open-floor }
-    * Hydration, restrooms, aftercare support.
-
-!!! ccard h2 "11. Open Floor & Free Play (21:45 – 22:00+)" {:open-floor}
+!!! ccard h2 "11. Open Floor & Free Play (21:30 – 22:00+)" {:open-floor}
     * Unstructured practice, debriefs, pair play, and instructor Q&A until venue close.
 
 !!! ccard h2 "Appendix: Extended Content & Omake" {:appendix}
     *Easter eggs, historic context, and foundational reading.*
+
+    ### Negotiation Bio-Breaks & Consent Culture {: #appendix-bio-breaks }
+    * In lieu of room-wide bio-breaks, encouraging partners to step away or take a water/restroom break during the negotiation phase gives attendees a socially seamless, graceful "out" to decline play without awkwardness.
 
     ### Bonus Inductions {: #appendix-inductions }
     * **My Friend John**: Any induction by Scheherazade: Tell them about teaching your friend to imagine teaching their friend to go into trance.
