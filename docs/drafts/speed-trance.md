@@ -21,8 +21,8 @@ pagination: true
         * `18:20 – 18:30`: **2. Opening Ceremonies** (Lock doors, consent checkpoint, house rules)
         * `18:30 – 18:50`: **3. Practice 1**: Breathwork — Pacing & Leading; Wakeners
         * `18:50 – 19:10`: **4. Theory 1**: Subject Skills
-        * `19:10 – 19:40`: **5. Practice 2**: Progressive Muscle Relaxation & Arm Catalepsy
-        * `19:40 – 20:10`: **6. Practice 3**: Eye Fixation Inductions & Sensory Deepeners
+        * `19:10 – 19:40`: **5. Practice 2**: Progressive Muscle Relaxation & Catalepsy
+        * `19:40 – 20:10`: **6. Practice 3**: Eye Fixation Inductions & Sensory Phenomena
         * `20:10 – 20:30`: **7. Theory 2**: "Difficult Brains", Analytical Minds & Cognitive Overload
         * `20:30 – 21:00`: **8. Practice 4**: Handshake Interrupt, Fractionation & Triggers
         * `21:00 – 21:10`: **9. Closing Ceremonies** (Room-wide grounding & de-roling)
@@ -193,7 +193,7 @@ pagination: true
     ### Phase 2: Check-in {: #practice-2-checkin }
     > "Whenever you need to check in, speaking is easy. Say 'yellow' or tap twice so I know you can... Ok! Say 'green' to keep going."
 
-    ### Phase 3: Arm Drop & Deepener {: #practice-2-arm-drop }
+    ### Phase 3: Arm Drop {: #practice-2-arm-drop }
     * Drop arm gently and low for each one, keeping it loose and heavy with each drop.
     * Notice and accept how good and heavy it feels... nod or make a sound when ready for another suggestion.
 
@@ -209,14 +209,14 @@ pagination: true
     ### Phase 5: Wakener {: #practice-2-wakener }
     * Count up 1-2-3, shake out, clear.
 
-!!! ccard h2 "6. Practice 3: Eye Fixation Inductions & Sensory Deepeners (19:40 – 20:10)" {:practice-3-eye-fixation}
+!!! ccard h2 "6. Practice 3: Eye Fixation Inductions & Sensory Phenomena (19:40 – 20:10)" {:practice-3-eye-fixation}
     *Same idea, totally different, and much faster!*
 
     ### Concept {: #practice-3-concept }
     * **Time Budget**: 5 min discussion, 10 min demo, 15 min partner practice.
     * **Fatigue Mechanics**: Focus and angle exhaust the eyes. Chain the relief of closing them directly into dropping into trance.
     * **Geometry**: 8–12 inches out, 35°–45° above eye level; crossed eyes looking up are hard to sustain. Watch for eye quiver, glassiness, blinking.
-    * **Deepener**: Fast induction, so have something ready immediately to drive absorption.
+    * **Sensory Phenomena**: Fast induction, so follow up immediately with sensory phenomena to drive absorption.
 
     ### Negotiation {: #practice-3-negotiation }
     * Anything to know? Ok to talk about eyes, wave around near them?
@@ -236,7 +236,7 @@ pagination: true
 
     > "Down. Drop down for me, deep into trance, eyes shut, no more following my fingers. Deeper and deeper."
 
-    ### Phase 2: Sensory Deepener (Butterfly) {: #practice-3-butterfly }
+    ### Phase 2: Sensory Phenomena (Butterfly) {: #practice-3-butterfly }
     *Picture or feel an erratic butterfly flitting and landing and feeling delightful.*
 
     > "Flit, so imaginative... Land, so focused."
@@ -245,7 +245,7 @@ pagination: true
 
     > "Flit, open to surprise... Land, prepared to follow suggestions."
 
-    ### Phase 3: Multi-Sensory Deepener (Apple) {: #practice-3-apple }
+    ### Phase 3: Sensory Phenomena (Apple) {: #practice-3-apple }
     *Remember cutting up an apple.*
 
     * **Layer senses**: Glossy peel, cold firm touch, sweet aroma.
