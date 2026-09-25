@@ -38,33 +38,27 @@ pagination: true
     *Setting mental models, communication foundations, and negotiations.*
 
     ### Core Models {: #preamble-models }
-    * 0. *All models are lies. Some are useful.*
-    * 1. **Operating under different rules**:
+    0. *All models are lies. Some are useful.*
+    1. **Operating under different rules**:
         * Soccer: no hands, yes chase.
         * Workspace: yes hands, no chase.
-    * 2. **Play is consent** (FRIES; boxing vs assault).
-    * 3. **The subject does the work** (HOT).
-    * 4. **The hypnotist directs the subject** (CREAM; director vs method actor).
-    * 5. *Therefore, negotiation opens context for the subject to play by different rules.*
-
-    ### Consent: The FRIES Model {: #preamble-consent }
-    * **F**reely given
-    * **R**eversible
-    * **I**nformed
-    * **E**nthusiastic (& Explicit!)
-    * **S**pecific
-
-    ### Scientific Foundations {: #preamble-science }
-    * **Higher-Order Thought (HOT)**: Conscious experience happens when we have meta-thoughts about our own underlying mental states (*Rosenthal*).
-    * **Cold Control**: A hypnotic response is a voluntary, executive action performed while avoiding the higher-order thought of *intending* it (*Dienes*).
-    * *TL;DR*: The subject's brain is doing the heavy lifting; "intention" and "automaticity" are subjective experiences.
-
-    ### Performative Frame (CREAM) {: #preamble-cream }
-    * **C**ontext (setting the expectation that hypnosis is happening)
-    * **R**apport (connection; sympathetic, authoritative, or playful)
-    * **E**xpectation (what the subject believes will occur)
-    * **A**bsorption (the subject's focus material)
-    * **M**otivation (why they want to participate)
+    2. **Play is consent** (FRIES; boxing vs assault):
+        * **F**reely given
+        * **R**eversible
+        * **I**nformed
+        * **E**nthusiastic (& Explicit!)
+        * **S**pecific
+    3. **The subject does the work** (HOT):
+        * **Higher-Order Thought (HOT)**: Conscious experience happens when we have meta-thoughts about our own underlying mental states (*Rosenthal*).
+        * **Cold Control**: A hypnotic response is a voluntary, executive action performed while avoiding the higher-order thought of *intending* it (*Dienes*).
+        * *TL;DR*: The subject's brain is doing the heavy lifting; "intention" and "automaticity" are subjective experiences.
+    4. **The hypnotist directs the subject** (CREAM; director vs method actor):
+        * **C**ontext (setting the expectation that hypnosis is happening)
+        * **R**apport (connection; sympathetic, authoritative, or playful)
+        * **E**xpectation (what the subject believes will occur)
+        * **A**bsorption (the subject's focus material)
+        * **M**otivation (why they want to participate)
+    5. *Therefore, negotiation opens context for the subject to play by different rules.*
 
     ### Negotiation {: #preamble-negotiation }
     * Touch? Where, how?
@@ -126,10 +120,11 @@ pagination: true
     > "But right now you can just stay there kind of blissed out while half the room joins you..."
 
     ### Wakener {: #practice-1-wakener }
-    * At the count of 3 you'll be awake, focused, and alert; ready to resume being a great subject for the night.
-    * **1**: Shaking off the effect of trance.
-    * **2**: Energy suffusing the body, feeling great.
-    * **3**: Up up up! Wide awake!
+    *At the count of 3 you'll be awake, focused, and alert; ready to resume being a great subject for the night:*
+
+    1. **Shaking off the effect of trance.**
+    2. **Energy suffusing the body, feeling great.**
+    3. **Up up up! Wide awake!**
 
 !!! ccard h2 "4. Theory 1: Subject Skills (19:00 – 19:20)" {:theory-1-subject-skills}
     *Reframing the subject's role from passive to active, defining core skills, and establishing brakes.*
@@ -152,9 +147,9 @@ pagination: true
     ### Safewords & Self-Clearing {: #theory-1-safewords }
     * Good brakes allow you to drive fast and deep with confidence.
     * **Safewords**:
-        * **Green**: Yes, good, keep going!
-        * **Yellow**: Pause, check in, adjust pacing (or tap twice).
-        * **Red**: Stop immediately, end scene (or continuous tapping).
+        * 🟢 **Green**: Yes, good, keep going!
+        * 🟡 **Yellow**: Pause, check in, adjust pacing (or tap twice).
+        * 🔴 **Red**: Stop immediately, end scene (or continuous tapping).
     * **Self-Clearing**: All hypnosis is self-hypnosis. You are never trapped: count up, stretch, and wake yourself up. No mind-work needs to last any longer than you agreed.
 
 !!! ccard h2 "5. Practice 2: Progressive Muscle Relaxation & Catalepsy (19:20 – 19:50)" {:practice-2-pmr-catalepsy}
@@ -184,11 +179,15 @@ pagination: true
     ### Phase 3: Arm Drop & Deepener {: #practice-2-arm-drop }
     * Drop arm gently and low for each one, keeping it loose and heavy with each drop.
     * Count down, stacking one positive emotional state per number:
-        * **5**: Feeling a sense of ease.
-        * **4**: Adding a sense of relief to that ease.
-        * **3**: Adding peace to that relief and ease.
-        * **2**: Adding happiness to peace, relief, and ease.
-        * **1**: Contentment, happiness, peace, relief, and ease; completely wonderful to be hypnotized.
+
+    <ol reversed start="5" class="countdown-list">
+      <li><strong>Feeling a sense of ease.</strong></li>
+      <li><strong>Adding a sense of relief to that ease.</strong></li>
+      <li><strong>Adding peace to that relief and ease.</strong></li>
+      <li><strong>Adding happiness to peace, relief, and ease.</strong></li>
+      <li><strong>Contentment, happiness, peace, relief, and ease; completely wonderful to be hypnotized.</strong></li>
+    </ol>
+
     * Notice and accept how good it feels... nod or make a sound when ready for another suggestion.
 
     ### Phase 4: Catalepsy {: #practice-2-catalepsy }
@@ -295,16 +294,17 @@ pagination: true
     * Choose exercise: **Sunset Clouds** (mind-blank) vs an amnesia game (**"I Don't Know"**).
 
     ### Phase 1: 7 ± 2 Overload Induction {: #practice-4-overload }
-    * Rapid, continuous sensory layering:
-        1. Sound of my voice & cadence
-        2. Rhythm of your own breath
-        3. Support & weight in the chair
-        4. Mental count of items
-        5. Warm scent of clean bath / soap
-        6. Buzz & turntable hum of a microwave
-        7. Crisp hotel bedsheets fresh from the dryer
-        8. Sensation in arms (heavy, light, tingly)
-        9. First bite of favorite food
+    Rapid, continuous sensory layering:
+
+    1. Sound of my voice & cadence
+    2. Rhythm of your own breath
+    3. Support & weight in the chair
+    4. Mental count of items
+    5. Warm scent of clean bath / soap
+    6. Buzz & turntable hum of a microwave
+    7. Crisp hotel bedsheets fresh from the dryer
+    8. Sensation in arms (heavy, light, tingly)
+    9. First bite of favorite food
 
     ### Phase 2: The Drop {: #practice-4-drop }
     *Cycle items rapidly, then collapse:*

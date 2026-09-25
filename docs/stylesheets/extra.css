@@ -318,6 +318,22 @@ code, kbd, pre, .event-time, .badge {
   background-color: color-mix(in srgb, var(--ccard-color) 12%, rgba(255, 255, 255, 0.03)) !important;
 }
 
+/* Numbered & Countdown Lists in Cards */
+.md-typeset .admonition.ccard ol,
+.md-typeset .admonition.ccard ul ol {
+  list-style-type: decimal !important;
+}
+
+.md-typeset ol.countdown-list {
+  list-style-type: decimal !important;
+  margin: 0.6rem 0 0.6rem 1.6rem !important;
+  padding: 0 !important;
+}
+
+.md-typeset ol.countdown-list li {
+  margin-bottom: 0.35rem;
+}
+
 /* ============================================================
    The Dedicated Red Section Card (Or Else What?)
    ============================================================ */
