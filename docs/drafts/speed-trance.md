@@ -1,5 +1,5 @@
 ---
-title: "Speed Trance: Workshop Master Outline & Speaker Notes"
+title: "Speed Trance: Workshop Outline & Speaker Notes"
 search:
   exclude: true
 pagination: true
@@ -38,6 +38,7 @@ pagination: true
 
     ### Core Models {: #preamble-models }
     *All models are lies. Some are useful.*
+    Hypnosis is guided meditation + simon says.
     Hypnosis is twelve phenomena in a trench coat.
 
     ### 1. The Magic Circle {: #preamble-rules }
@@ -269,12 +270,13 @@ pagination: true
     * Imagine vs remember vs pretend vs picture...
 
     ### Tricky Brains {: #theory-2-tricky-brains-list }
-    * **People-Pleaser**: Fakes compliance to "do it right" → Remove performance pressure; give explicit permission to do nothing.
-    * **Overthinker**: Monitors internal state (*"Am I under yet?"*) → Confusion; overload working memory 7 ± 2, count backwards by 3s, etc.
-    * **Distractible**: Under-stimulated by quiet; boredom & fidgeting → High absorption, rapid pacing, dense multi-sensory tracks.
-    * **Literal**: Trips over vague poetry or social guessing games → Concrete instructions, clear game rules and explicit roadmap.
+    * **Fawning**: Fakes compliance to "do it right" → Focus on internal phenomena!
+    * **"Analytic"**: Watching internal state (*"Am I under yet?"*) → Confusion; 7±2, count backwards by 3s, etc.
+    * **ADHD**: Gotta keep busy → fascination, higher energy, fractionation. Avoid relaxation!
+    * **Literal**: Trips over vague poetry or social guessing games → Concrete instructions, clear game rules and explicit plans.
+    * **Autism**: Literal. Also, sensory issues. 
     * **Aphantasic**: Cannot visualize ("picture a staircase" = dark eyelids) → Non-visual modalities (kinesthetic, spatial, auditory, emotional).
-    * **Hyper-Vigilant**: Braces against losing control or vulnerability → Permissive framing, high rapport, zero surprises, full transparency.
+    * **On Guard**: Braces against losing control or vulnerability → High rapport. Permissive, indirect language. Transparency.
     * **Brat**: Resists direct orders (*"You will sleep"*) → Double binds, playful challenges, and rapid utilization.
 
 !!! ccard h2 "8. Practice 4: Confusion Inductions (20:45 – 21:15)" {:practice-4-confusion}
@@ -285,7 +287,7 @@ pagination: true
     * **Cognitive Overload (7 ± 2)**: Working memory bandwidth has a physiological limit. Multi-sensory saturation overloads working memory.
     * **The Pattern Interrupt**: Attention jams; the snap/drop abruptly collapses all tracks into one single peaceful release.
     * **Tips**:
-        * Some people hate this induction, so if it encounters resistance, recognize why!
+        * Some people (hi) hate this induction, so if it encounters resistance, recognize why!
         * **Continuous Flow**: Keep patter moving without long pauses so the subject stays busy.
         * **Find & Hit the Limit**: When you see confusion set in, execute the drop immediately.
 
@@ -383,22 +385,16 @@ pagination: true
     * Rapid stacking: Up... down down down. Up up... down down down. Down. Down. Down.
 
     ### Phase 3: Time Dilation {: #practice-5-time-dilation }
-    * **Somnambulistic eyes-open**:
+    
+    > "Up, open your eyes, remain in trance... Close your eyes, down down down."
 
-        > "Up, open your eyes, remain in trance... Close your eyes, down down down."
+    > Stack doing it a dozen times. Then for an hour, or a day. Take a break, do it another hour, then another day.
 
-    * Stack doing it a dozen times. Then for an hour, or a day. Take a break, do it another hour, then another day.
-    * **Stacking rest**:
+    > Remembering practicing this dozens, hundreds of times with every partner you want to...
 
-        > "Remembering practicing this dozens, hundreds of times with every partner you want to..."
+    > Feels like you've been doing this all weekend... a lovely vacation away from everything else, zero obligations, free to relax and practice. Becoming so natural at engaging, imagining, and playing the way you want to.
 
-    * **The Weekend Vacation**:
-
-        > "Feels like you've been doing this all weekend... a lovely vacation away from everything else, zero obligations, free to relax and practice. Becoming so natural at engaging, imagining, and playing the way you want to."
-
-    * **Distortion anchor**:
-
-        > "Some confusion over how long we spent doing this is natural; just feeling great having had a trance that lasted weeks longer than anyone else's."
+    > "Some confusion over how long we spent doing this is natural; just feeling great having had a trance that lasted weeks longer than anyone else's.
 
     ### Phase 4: Wakener & Wipe Ritual {: #practice-5-wakener }
     * 1 to 5 count-up: feeling in toes, triggers fading, stretching, alert, wide awake!
