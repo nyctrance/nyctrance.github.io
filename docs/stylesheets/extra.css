@@ -288,6 +288,16 @@ code, kbd, pre, .event-time, .badge {
   border-top: none;
 }
 
+.md-typeset .admonition.ccard h4 {
+  font-family: 'Unbounded', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-top: 1.1rem;
+  margin-bottom: 0.35rem;
+  color: var(--md-default-fg-color);
+  letter-spacing: -0.01em;
+}
+
 .md-typeset .admonition.ccard.h2 {
   transition: border-left-width 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
 }

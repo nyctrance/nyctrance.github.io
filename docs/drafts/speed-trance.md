@@ -38,46 +38,51 @@ pagination: true
 
     ### Core Models {: #preamble-models }
     *All models are lies. Some are useful.*
+    Hypnosis is twelve phenomena in a trench coat.
 
-    ### 1. Play operates under different rules {: #preamble-rules }
+    ### 1. The Magic Circle {: #preamble-rules }
+    *The 'consecrated spot' cannot be formally distinguished from the play-ground.* [(*Johan Huizinga*)](https://en.wikipedia.org/wiki/Magic_circle_(games))
     * Soccer: no hands, yes chase.
     * Workspace: yes hands, no chase.
+    * [I once cried at a sudoku because of friendship!](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000N4Q)
 
-    ### 2. Play is consent (FRIES; boxing vs assault) {: #preamble-consent }
+    #### 2. Consent creates play {: #preamble-consent }
+    *what separates boxing from assault?*
     * **F**reely given
     * **R**eversible
     * **I**nformed
     * **E**nthusiastic (& Explicit!)
     * **S**pecific
 
-    ### 3. The subject does the work (HOT & Cold Control) {: #preamble-science }
-    * **Higher-Order Thought (HOT)**: Conscious experience happens when we have meta-thoughts about our own underlying mental states (*Rosenthal*).
-    * **Cold Control**: A hypnotic response is a voluntary, executive action performed while avoiding the higher-order thought of *intending* it (*Dienes*).
+    #### 3. The player is the subject {: #preamble-science }
+    *this is about behavior and experiences*
+    * **Higher-Order Thought (HOT)**: Conscious experience happens when we have meta-thoughts about our own underlying mental states (*David Rosenthal*).
+    * **Cold Control**: A hypnotic response is a voluntary, executive action performed while avoiding the higher-order thought of *intending* it (*Zoltan Dienes*).
     * *TL;DR*: The subject's brain is doing the heavy lifting; "intention" and "automaticity" are subjective experiences.
 
-    ### 4. The hypnotist directs the subject (CREAM) {: #preamble-cream }
+    #### 4. The hypnotist is the director {: #preamble-cream }
+    *You have to make the golden circle and invite your player*
     * **C**ontext: setting the expectation that hypnosis is happening
     * **R**apport: connection; sympathetic, authoritative, or playful
     * **E**xpectation: what the subject believes will occur
     * **A**bsorption: the subject's focus material
     * **M**otivation: why they want to participate
 
-    ### 5. Negotiation {: #preamble-negotiation }
-    *Therefore, negotiation opens context for the subject to play by different rules.*
-
+    #### 5. Negotiation {: #preamble-negotiation }
+    *Therefore: the hypnotist and subject use negotiation to establish trust and the context of play.*
     * Touch?: Where, how?
     * Suggestions?: Hypnotic triggers? Limits?
     * Preexistings?: phobias? (Emotional) triggers? Medical conditions?
-    * Style?: permissive vs authoritative; direct vs indirect; fast vs slow.
+    * Style?: permissive vs authoritative; direct vs indirect; fast vs slow; modalities...
 
 !!! ccard h2 "2. Opening Ceremonies (18:30 – 18:40)" {:opening-ceremonies}
-    *Lock the doors! Establishing the golden circle.*
+    *Lock the doors! Establishing our golden circle.*
 
     ### Group Agreement & Consent {: #opening-agreements }
     * Recreational context; potential for emotional "splash" or abreaction.
     * Ask, don't guess (touch, phobias, medical stuff, ...).
-    * Play nice. Keep it PG, be respectful, be kind.
-    * **Blanket consent** — if you play together — for suggestions for:
+    * Play nice. Be kind, be respectful; keep it PG.
+    * **Blanket consent** — if you play together — for suggestions:
         * Breathing
         * Being a good, skilled subject
         * Calm, relaxation, energy, feeling good, enjoyment
@@ -94,7 +99,7 @@ pagination: true
         3. Eye Fixation + Eat an apple
         4. Confusion + You Don't Know
         5. Kinesthetic + Fractionation + Have a longer weekend
-    * And someone seated who knows what they're doing to show demo friends a different experience during the turn.
+    * And someone seated adjacent who knows what they're doing to show demo friends a different experience during the turn.
 
 !!! ccard h2 "3. Practice 1: Breathwork — Pacing & Leading (18:40 – 19:00)" {:practice-1-breathwork}
     *Low-stakes calibration; synchronizing rhythm without complex suggestions.*
@@ -113,51 +118,53 @@ pagination: true
     ### Induction {: #practice-1-induction }
     *Sit comfortably in your chair!*
 
-    > "Breathe in... and let that breathe out in a whoosh..."
+    > Breathe in... and let that breathe out in a whoosh...
 
-    > "Now, find your exhale just a little longer than your inhale... relaxing and feeling so good... feeling a wave of relaxation with every breath out."
+    > Now, find your exhale just a little longer than your inhale... relaxing and feeling so good... feeling a wave of relaxation with every breath out.
 
-    > "Now when you're so deeply relaxed, it's easy to stay **engaged** with these words, or to use your **imagination** to follow any suggestions you like."
+    > Now when you're so deeply relaxed, it's easy to stay **engaged** with these words, or to use your **imagination** to follow any suggestions you like.
 
-    > "And if I ask you a question or you want to change anything, you find it easy to respond, right?"
+    > And if I ask you a question or you want to change anything, you find it easy to respond, right?
 
-    > "But right now you can just stay there kind of blissed out while half the room joins you..."
+    > But right now you can just stay there kind of blissed out while half the room joins you...
 
     ### Wakener {: #practice-1-wakener }
-    *At the count of 3 you'll be awake, focused, and alert; ready to resume being a great subject for the night:*
+    > At the count of 3 you'll be awake, focused, and alert; ready to resume being a great subject for the night:
 
-    1. **Shaking off the effect of trance.**
-    2. **Energy suffusing the body, feeling great.**
-    3. **Up up up! Wide awake!**
+    > 1. **Shaking off the effect of trance.**
+
+    > 2. **Energy suffusing the body, feeling great.**
+
+    > 3. **Up up up! Wide awake!**
 
 !!! ccard h2 "4. Theory 1: Subject Skills (19:00 – 19:20)" {:theory-1-subject-skills}
     *Reframing the subject's role from passive to active, defining core skills, and establishing brakes.*
 
-    ### Dispelling the Passive Myth {: #theory-1-passive-myth }
-    * **Director vs Actor**: Hypnotist is the director; subject is the actor. You cannot hypnotize a stubborn brick.
-    * **Acting Metaphor**: Like an actor, committing to the reality of the scene leads to a genuine, unique experience.
-    * **Play & Skepticism**: You're trying to get hypnotized. Testing to see if you are yet is refusing to play soccer while standing on the field.
-
     ### Subject Skills {: #theory-1-skills }
-    * **Engage**: Focus on the words as much as you can. Suspend analysis until the debrief.
-    * **Imagine**: Whatever is described, picture or feel it immediately, acting as described. Play along!
+    * **Engage**: Focus on the words as much as you can. Suspend analysis until the debrief. Testing to see if you are yet is refusing to play soccer while standing on the field.
+    * **Imagine**: Whatever is described, picture or feel it immediately, acting as described. Play along! Committing to the reality of the scene leads to a genuine, unique experience.
     * **Prep**: Frontload decisions so you can play knowing you have the power to stop at any time. Ask for what you want!
 
     ### Convincers {: #theory-1-convincers }
-    * Thoughts become physical sensations: imagining holding a balloon makes your arm feel light; imagining a cold movie theater raises goosebumps.
-    * **Demonstrating Response**: Convincers show the subject's conscious mind that their body is already following along.
-    * **No Pass/Fail**: Any hesitation, heaviness, or shift in sensation is a successful experiment.
+    * **Somatization**. Mind drives physical sensations: imagining holding a balloon makes your arm feel light; imagining a cold movie theater raises goosebumps.
+    * **It's a gradient**: Any hesitation, heaviness, or shift in sensation is a successful experiment.
+    * **Carleton Skill Training Program**:
+        * Imagine doing the thing
+        * Imagine doing the thing and it was automatic
+        * Do the thing, imagining the reaction was automatic
+    * **Pacing and leading**/**Yes-sets**: 4 truths/1 suggestion... 1 truth/4 suggestions.
 
     ### Safewords & Self-Clearing {: #theory-1-safewords }
-    * Good brakes allow you to drive fast and deep with confidence.
+    * Good brakes allow you to drive fast.
+    * This is speedrunning intimacy, with all pros & cons.
     * **Safewords**:
         * 🟢 **Green**: Yes, good, keep going!
         * 🟡 **Yellow**: Pause, check in, adjust pacing (or tap twice).
         * 🔴 **Red**: Stop immediately, end scene (or continuous tapping).
-    * **Self-Clearing**: All hypnosis is self-hypnosis. You are never trapped: count up, stretch, and wake yourself up. No mind-work needs to last any longer than you agreed.
+    * **Agency**: All hypnosis is self-hypnosis. You are never trapped: count up, stretch, and wake yourself up. No mind-work needs to last any longer than you agreed.
 
 !!! ccard h2 "5. Practice 2: Progressive Muscle Relaxation & Catalepsy (19:20 – 19:50)" {:practice-2-pmr-catalepsy}
-    *Applying the convincer theory through physiological feedback.*
+    *Putting it together, relaxation, suggestion.*
 
     ### Concept {: #practice-2-concept }
     * **Time Budget**: 5 min discussion, 10 min demo, 15 min partner practice.
@@ -182,32 +189,22 @@ pagination: true
 
     ### Phase 3: Arm Drop & Deepener {: #practice-2-arm-drop }
     * Drop arm gently and low for each one, keeping it loose and heavy with each drop.
-    * Count down, stacking one positive emotional state per number:
-
-    <ol reversed start="5" class="countdown-list">
-      <li><strong>Feeling a sense of ease.</strong></li>
-      <li><strong>Adding a sense of relief to that ease.</strong></li>
-      <li><strong>Adding peace to that relief and ease.</strong></li>
-      <li><strong>Adding happiness to peace, relief, and ease.</strong></li>
-      <li><strong>Contentment, happiness, peace, relief, and ease; completely wonderful to be hypnotized.</strong></li>
-    </ol>
-
-    * Notice and accept how good it feels... nod or make a sound when ready for another suggestion.
+    * Notice and accept how good and heavy it feels... nod or make a sound when ready for another suggestion.
 
     ### Phase 4: Catalepsy {: #practice-2-catalepsy }
-    > "Now, imagine that arm stayed just as loose as it just was, heavy and limp; try to lift it just a little."
+    > Now, imagine that arm stayed just as loose as it just was, heavy and limp; try to lift it just a little.
 
     *Notice how much of your focus that took!*
 
-    > "Drop it, and let it feel ten times heavier and limper and looser. Even thinking about moving it reminds you how heavy and sleepy that arm is."
+    > Drop it, and let it feel ten times heavier and limper and looser. Even thinking about moving it reminds you how heavy and sleepy that arm is.
 
-    > "Now, if you were to even try to move it again, you will be shocked how immovable it's become!"
+    > Now, if you were to even try to move it again, you will be shocked how immovable it's become!
 
     ### Phase 5: Wakener {: #practice-2-wakener }
     * Count up 1-2-3, shake out, clear.
 
 !!! ccard h2 "6. Practice 3: Eye Fixation Inductions & Sensory Deepeners (19:50 – 20:20)" {:practice-3-eye-fixation}
-    *Biomechanical fatigue meets pacing/leading, coupled with non-visual deepeners.*
+    *Same idea, totally different, and much faster!*
 
     ### Concept {: #practice-3-concept }
     * **Time Budget**: 5 min discussion, 5 min demo, 15 min partner practice.
@@ -216,14 +213,14 @@ pagination: true
     * **Deepener**: Fast induction, so have something ready immediately to drive absorption.
 
     ### Negotiation {: #practice-3-negotiation }
-    * Anything to know? Ok to talk about eyes, wave around near you?
+    * Anything to know? Ok to talk about eyes, wave around near them?
     * Butterflies?
     * Sliced apple memory?
 
     ### Phase 1: Eye Fixation Induction {: #practice-3-induction }
     *Finger 8–12" out, 35°–45° up. Head still, eyes tracking side to side.*
 
-    > "Which eye wants to blink first, the left or the right? My left or your left?"
+    > "Which eye wants to blink first, the left or the right? My left or your left? And the one that's left, right?"
 
     *Pace the flutter:*
 
@@ -234,11 +231,11 @@ pagination: true
     > "Down. Drop down for me, deep into trance, eyes shut, no more following my fingers. Deeper and deeper."
 
     ### Phase 2: Sensory Deepener (Butterfly) {: #practice-3-butterfly }
-    *Picture or feel an erratic butterfly flitting and landing.*
+    *Picture or feel an erratic butterfly flitting and landing and feeling delightful.*
 
     > "Flit, so imaginative... Land, so focused."
 
-    > "Flit, so good... Land, so relaxed."
+    > "Flit, feeling so good... Land, so relaxed."
 
     > "Flit, open to surprise... Land, prepared to follow suggestions."
 
@@ -259,17 +256,16 @@ pagination: true
     *Why relaxation fails racing minds, neurodiverse sensory profiles, and how to harness cognitive overload.*
 
     ### Sensory Modalities (VAKOG) {: #theory-2-modalities }
-    * **V - Visual**: Sight, shape, colors, movement (effective for visualizers; useless for aphantasics).
-    * **A - Auditory**: Cadence, vocal tone, ambient drone, motor hum, rhythmic footsteps.
-    * **K - Kinesthetic**: Touch, weight/gravity (elevator pull, lead sinkers), textures (smooth cool mahogany banister), pressure, temperature, muscle release.
-    * **O - Olfactory**: Scent memory (clean bath soap, fresh laundry, rain).
-    * **G - Gustatory**: Taste somatic memory (fruit, sea air).
+    * **_V_isual**: Sight, shape, colors, movement (effective for visualizers; useless for aphantasics).
+    * **_A_uditory**: Cadence, vocal tone, ambient drone, motor hum, rhythmic footsteps.
+    * **_K_inesthetic**: Touch, weight/gravity (elevator pull, lead sinkers), textures (smooth cool mahogany banister), pressure, temperature, muscle release.
+    * **_O_lfactory/_G_ustatory**: (clean bath soap, fresh laundry, rain; fruit, sea air).
     * *Don't forget **memory** and **emotions**!*
 
     ### Hypnotic Styles {: #theory-2-styles }
-    * **Verbal vs Non-verbal**: Tone, cadence, pauses, touch, physical gestures.
-    * **Permissive vs Authoritarian**: *"You might notice..."* vs *"You will feel..."*
-    * **Direct vs Indirect vs Questions vs Puzzles**
+    * Verbal vs Non-verbal: Tone, cadence, pauses, touch, physical gestures.
+    * Permissive vs Authoritarian: *"You might notice..."* vs *"You will feel..."*
+    * Direct vs Indirect vs Questions vs Puzzles
     * Imagine vs remember vs pretend vs picture...
 
     ### Tricky Brains {: #theory-2-tricky-brains-list }
@@ -427,13 +423,24 @@ pagination: true
 !!! ccard h2 "11. Open Floor & Free Play (21:45 – 22:00+)" {:open-floor}
     * Unstructured practice, debriefs, pair play, and instructor Q&A until venue close.
 
-!!! ccard h2 "Appendix: Extended Content & Omake" {:appendix}
+!!! ccard h1 "Appendix: Extended Content & Omake" {:appendix}
     *Easter eggs, historic context, and foundational reading.*
 
-    ### Bonus Inductions {: #appendix-inductions }
+    ## Bonus Inductions {: #appendix-inductions }
     * **My Friend John**: Any induction by Scheherazade: Tell them about teaching your friend to imagine teaching their friend to go into trance.
     * **Betty Erickson's Scanning**: 5 things you see, hear, feel; then 4, 3, 2, 1.
     * **Flying Around Manhattan**: Somatic imagery using memories of facing a fan, swimming, movies, and towering architecture.
+
+    ## Some more suggestions
+
+    ### Feel good!
+    * Count down, stacking one positive emotional state per number:  
+        **5**: Feeling a sense of ease  
+        **4**: Adding a sense of relief to that ease  
+        **3**: Adding peace to that relief and ease  
+        **2**: Adding happiness to peace, relief, and ease  
+        **1**: Contentment, happiness, peace, relief, and ease; completely wonderful to be hypnotized
+
 
     ### Charlatans, Conmen & Hypnotic Cults {: #appendix-cults }
     * **Franz Mesmer (1780s)**: Animal magnetism, lilac silk robes, iron rods in tubs of magnetized water, aristocratic swooning. Debunked by Benjamin Franklin.
