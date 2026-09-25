@@ -41,7 +41,7 @@ pagination: true
     Hypnosis is guided meditation + simon says.
     Hypnosis is twelve phenomena in a trench coat.
 
-    ### 1. The Magic Circle {: #preamble-rules }
+    #### 1. The Magic Circle {: #preamble-rules }
     *The 'consecrated spot' cannot be formally distinguished from the play-ground.* [(*Johan Huizinga*)](https://en.wikipedia.org/wiki/Magic_circle_(games))
     * Soccer: no hands, yes chase.
     * Workspace: yes hands, no chase.
@@ -419,24 +419,23 @@ pagination: true
 !!! ccard h2 "11. Open Floor & Free Play (21:45 – 22:00+)" {:open-floor}
     * Unstructured practice, debriefs, pair play, and instructor Q&A until venue close.
 
-!!! ccard h1 "Appendix: Extended Content & Omake" {:appendix}
+!!! ccard h2 "Appendix: Extended Content & Omake" {:appendix}
     *Easter eggs, historic context, and foundational reading.*
 
-    ## Bonus Inductions {: #appendix-inductions }
+    ### Bonus Inductions {: #appendix-inductions }
     * **My Friend John**: Any induction by Scheherazade: Tell them about teaching your friend to imagine teaching their friend to go into trance.
     * **Betty Erickson's Scanning**: 5 things you see, hear, feel; then 4, 3, 2, 1.
     * **Flying Around Manhattan**: Somatic imagery using memories of facing a fan, swimming, movies, and towering architecture.
 
-    ## Some more suggestions
+    ### Some More Suggestions {: #appendix-suggestions }
 
-    ### Feel good!
+    #### Feel good!
     * Count down, stacking one positive emotional state per number:  
         **5**: Feeling a sense of ease  
         **4**: Adding a sense of relief to that ease  
         **3**: Adding peace to that relief and ease  
         **2**: Adding happiness to peace, relief, and ease  
         **1**: Contentment, happiness, peace, relief, and ease; completely wonderful to be hypnotized
-
 
     ### Charlatans, Conmen & Hypnotic Cults {: #appendix-cults }
     * **Franz Mesmer (1780s)**: Animal magnetism, lilac silk robes, iron rods in tubs of magnetized water, aristocratic swooning. Debunked by Benjamin Franklin.
