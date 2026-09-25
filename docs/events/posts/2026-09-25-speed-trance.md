@@ -11,8 +11,8 @@ categories:
 # September 25th Speed Trance & Munch
 
 <!-- --8<-- [start:summary] -->
-* **munch** Sept 25th 5pm-6pm
-* **speed trance** Sept 25th 6pm-10pm
+* **munch**: 5pm – 6pm (Madison Square Park)
+* **speed trance**: 6pm – 10pm (Chelsea venue)
 
 **Hope to see you there!**
 <!-- --8<-- [end:summary] -->
